@@ -12,4 +12,6 @@ design:
   columns: "1"
 hero_media: welcome.jpg
 ---
-Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.  At Therapy Nottingham, we are interested in who you are, and invested in your growth and improvement.
+Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.
+
+At Therapy Nottingham, we are interested in who you are, and invested in your growth and improvement.

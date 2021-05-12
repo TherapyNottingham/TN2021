@@ -1,0 +1,11 @@
+# Font style metadata
+name = "TN"
+
+# Optional Google font URL
+google_fonts = "family=PT+Serif:wght@400;700"
+
+# Font families
+heading_font = "PT Serif"
+body_font = "PT Serif"
+nav_font = "PT Serif"
+mono_font = "PT Serif"

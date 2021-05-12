@@ -5,7 +5,7 @@ name = "TN"
 light = true
 
 # Primary
-primary = "#1565c0"
+primary = "#eaece9"
 
 # Menu
 menu_primary = "#eaece9"

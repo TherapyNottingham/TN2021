@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 9999
+weight: 99
 
 title: Signup for news and updates
 subtitle:

@@ -20,6 +20,7 @@ design:
   spacing:
     padding: ["20px", "0", "20px", "0"]
 ---
+Newsletter
 <!-- Begin Sendinblue Form -->
 <!-- START - We recommend to place the below code in head tag of your website html  -->
 <style>

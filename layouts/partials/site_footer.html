@@ -23,13 +23,7 @@
   {{ end }}
 
   {{ with site.Copyright }}
-    <p class="powered-by">
-    {{ replace . "{year}" now.Year | markdownify }}
-  </p>
-  {{ end }}
-
-  {{/* Display copyright license. */}}
-  <!-- Begin Sendinblue Form -->
+      <!-- Begin Sendinblue Form -->
 <!-- START - We recommend to place the below code where you want the form in your website html  -->
   <p>
 <div class="sib-form" style="text-align: center;
@@ -225,6 +219,13 @@
 
 <!-- END - We recommend to place the above code in footer or bottom of your website html  -->
 <!-- End Sendinblue Form -->
+
+      <p class="powered-by">
+    {{ replace . "{year}" now.Year | markdownify }}
+  </p>
+  {{ end }}
+
+  {{/* Display copyright license. */}}
   {{ partial "site_footer_license" . }}
 
   <p class="powered-by">

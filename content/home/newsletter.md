@@ -114,12 +114,10 @@ design:
                 <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Georgia&quot;, serif; color:#464c43;" for="EMAIL" data-required="*">
                   Enter your email address to subscribe
                 </label>
-
                 <div class="entry__field">
                   <input class="input" type="text" id="EMAIL" name="EMAIL" autocomplete="off" placeholder="EMAIL" data-required="true" required />
                 </div>
               </div>
-
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
               <label class="entry__specification" style="font-size:12px; text-align:left; font-family:&quot;Georgia&quot;, serif; color:#3c5d55;">
@@ -135,12 +133,10 @@ design:
                 <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Georgia&quot;, serif; color:#464c43;" for="FIRSTNAME">
                   First name
                 </label>
-
                 <div class="entry__field">
                   <input class="input" maxlength="200" type="text" id="FIRSTNAME" name="FIRSTNAME" autocomplete="off" placeholder="FIRST NAME" />
                 </div>
               </div>
-
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
             </div>
@@ -153,12 +149,10 @@ design:
                 <label class="entry__label" style="font-size:16px; text-align:left; font-weight:700; font-family:&quot;Georgia&quot;, serif; color:#464c43;" for="LASTNAME">
                   Last name
                 </label>
-
                 <div class="entry__field">
                   <input class="input" maxlength="200" type="text" id="LASTNAME" name="LASTNAME" autocomplete="off" placeholder="LAST NAME" />
                 </div>
               </div>
-
               <label class="entry__error entry__error--primary" style="font-size:16px; text-align:left; font-family:&quot;Helvetica&quot;, sans-serif; color:#661d1d; background-color:#ffeded; border-radius:3px; border-color:#ff4949;">
               </label>
             </div>
@@ -203,7 +197,6 @@ design:
                 href="https://www.sendinblue.com/legal/termsofuse/">terms of use</a>
             </p>
           </div>
-
         </div>
         <div style="padding: 8px 0;">
           <div class="g-recaptcha" data-sitekey="6LfKN9AaAAAAAGiY-rbffAiNaE9Jx1fH0vvAXlkZ" data-callback="invisibleCaptchaCallback" data-size="invisible" onclick="executeCaptcha"></div>
@@ -220,7 +213,6 @@ design:
             </button>
           </div>
         </div>
-
         <input type="text" name="email_address_check" value="" class="input--hidden">
         <input type="hidden" name="locale" value="en">
       </form>
@@ -228,7 +220,6 @@ design:
   </div>
 </div>
 <!-- END - We recommend to place the below code where you want the form in your website html  -->
-
 <!-- START - We recommend to place the below code in footer or bottom of your website html  -->
 <script>
   window.REQUIRED_CODE_ERROR_MESSAGE = 'Please choose a country code';

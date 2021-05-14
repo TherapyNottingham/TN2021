@@ -13,7 +13,7 @@ design:
   columns: "1"
   background:
     # Name of image in `assets/media/`.
-    image: welcome_background.webp
+    image: welcome_background.jpg
     #  Options are `cover` (default), `contain`, or `actual` size.
     image_size: cover
     # Options include `left`, `center` (default), or `right`.

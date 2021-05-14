@@ -5,7 +5,7 @@
 
 title: Therapy Nottingham # Website name
 baseurl: 'https://tn2021.netlify.app' # Website URL
-copyright: 'Therapy Nottingham' # Footer text, e.g. '© {year} Me'
+copyright: '© {year} Therapy Nottingham' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE

@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: Headline
 headless: true
-weight: 10
+weight: 1
 title: Therapy Nottingham
 subtitle: Integrative Psychotherapy in Nottingham
 
@@ -20,12 +20,15 @@ design:
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
+
 hero_media: welcome.jpg
+
 cta:
   url: 'https://therapy-nottingham.selectandbook.com'
   label: Book your first appointment
   icon_pack: fas
   icon: calendar-check
+
 cta_alt:
   url: '/#services'
   label: Find out more about our services

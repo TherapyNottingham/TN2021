@@ -11,6 +11,18 @@ subtitle: Integrative Psychotherapy in Nottingham
 design:
   columns: "1"
 hero_media: welcome.jpg
+cta:
+  url: 'https://therapy-nottingham.selectandbook.com'
+  label: Book your first appointment
+  icon_pack: fas
+  icon: calendar-check
+cta_alt:
+  url: '/#services'
+  label: Find out more about our services
+
+# Note. An optional note to show underneath the links.
+cta_note:
+  label: ''
 ---
 Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.
 

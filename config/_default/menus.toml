@@ -11,13 +11,13 @@
 [[main]]
   name = "Services"
   identifier = "Services"
-  url = "/#services"
+  url = "#services"
   weight = 12
   
 [[main]]
   name = "Psychotherapy"
   parent = "Services"
-  url = "/#individual_therapy"
+  url = "#individual_psychotherapy"
   weight = 5
 
 [[main]]

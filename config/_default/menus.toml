@@ -9,6 +9,18 @@
 #  weight = 10
 
 [[main]]
+  name = "Services"
+  identifier = "Services"
+  url = "/#services"
+  weight = 12
+  
+[[main]]
+  name = "Psychotherapy"
+  parent = "Services"
+  url = "/#individual_therapy"
+  weight = 5
+
+[[main]]
   name = "News"
   url = "post"
   weight = 20

@@ -28,7 +28,7 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 ## For clients
-- [Individual Psychotherapy]({{< relref "/#individual_therapy" >}})
+- [Individual Psychotherapy]({{< relref "/#individual_psychotherapy" >}})
 - Group Psychotherapy
 
 ## For professionals

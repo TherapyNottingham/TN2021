@@ -1,3 +1,4 @@
+---
 widget: contact
 headless: true  # This file represents a page section.
 
@@ -20,3 +21,4 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
+---

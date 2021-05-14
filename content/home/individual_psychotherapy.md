@@ -5,12 +5,12 @@ advanced:
 widget: hero
 widget_id: Headline
 headless: true
-weight: 10
+weight: 12
 title: Individual Psychotherapy
 subtitle: Solving Problems, Making Changes, A Better You
 
 design:
-  columns: "1"
+  columns: "2"
   background:
     # Name of image in `assets/media/`.
     image: welcome_background.jpg
@@ -37,6 +37,4 @@ cta_alt:
 cta_note:
   label: ''
 ---
-Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.
-
-At Therapy Nottingham, we are interested in who you are, and invested in your growth and improvement.
+Psychotherapy can help with a wide range of prblems and ifficulties, from those that seem to have been there forever, to those which have suddenly become apparent.

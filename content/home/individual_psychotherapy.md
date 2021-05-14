@@ -30,8 +30,8 @@ cta:
   icon: calendar-check
 
 cta_alt:
-  url: ''
-  label:
+  url: '/about/psychotherapy'
+  label: Find out more about psychotherapy
 
 # Note. An optional note to show underneath the links.
 cta_note:

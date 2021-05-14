@@ -15,6 +15,12 @@
   weight = 12
   
 [[main]]
+  name = "Our Services"
+  parent = "Services"
+  url = "#services"
+  weight = 3
+  
+[[main]]
   name = "Psychotherapy"
   parent = "Services"
   url = "#individual_psychotherapy"

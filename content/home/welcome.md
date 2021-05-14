@@ -12,7 +12,6 @@ subtitle: Integrative Psychotherapy in Nottingham
 design:
   columns: "1"
 hero_media: welcome.jpg
-
   background:
     # Name of image in `assets/media/`.
     image: welcome_background.webp

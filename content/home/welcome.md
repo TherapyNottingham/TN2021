@@ -11,7 +11,6 @@ subtitle: Integrative Psychotherapy in Nottingham
 
 design:
   columns: "1"
-hero_media: welcome.jpg
   background:
     # Name of image in `assets/media/`.
     image: welcome_background.webp
@@ -23,7 +22,7 @@ hero_media: welcome.jpg
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
-
+hero_media: welcome.jpg
 cta:
   url: 'https://therapy-nottingham.selectandbook.com'
   label: Book your first appointment

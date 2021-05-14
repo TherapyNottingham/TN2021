@@ -13,7 +13,7 @@ headless: true
 weight: 10
 
 title: Our Services
-subtitle: Therapy Nottingham provides a range of psycotherapy services for individuals, as well as consultation, supervision, training and CPD for other therapists
+subtitle: Therapy Nottingham provides a range of psycotherapy services for individuals, as well as consultation, supervision, training and CPD for professionals
 
 design:
   columns: "2"
@@ -31,7 +31,7 @@ design:
 - Individual Psychotherapy
 - Group Psychotherapy
 
-## For therapists
+## For professionals
 - Supervision
 - Consultation
 - Training

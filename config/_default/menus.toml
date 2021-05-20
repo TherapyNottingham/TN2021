@@ -42,9 +42,16 @@
   weight = 40
 
 [[main]]
-  name = "Publications"
-  url = "publication"
+  name = "About"
+  identifier = "About"
+  url = "#"
   weight = 50
+  
+[[main]]
+  name = "Psychotherapy"
+  parent = "About"
+  url = "/about/psychotherapy"
+  weight = 5
 
 [[main]]
   name = "Contact"

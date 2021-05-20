@@ -48,7 +48,7 @@
   weight = 50
   
 [[main]]
-  name = "Psychotherapy"
+  name = "About Psychotherapy"
   parent = "About"
   url = "/about/psychotherapy"
   weight = 5

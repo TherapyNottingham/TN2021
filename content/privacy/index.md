@@ -14,25 +14,45 @@ header:
 ---
 ## 1 Introduction
 1.1. We, Therapy Nottingham (we, us, our) take privacy, and the security of personal data, very seriously, and we are committed to ensuring that we safeguard the privacy and personal data of our website visitors and those with whom we communicate through that website, whether by email or electronically, at all times and in the best way possible.
+
 1.2. This privacy policy contains important information for you. It explains:
+
   1.2.1. who we are;
+  
   1.2.2. our website;
+  
   1.2.3. what personal information we collect about you;
+  
   1.2.4. how, when and why we collect, store, use and share your personal data;
+  
   1.2.5. how we keep your personal data secure;
+  
   1.2.6. for how long we keep your personal data;
+  
   1.2.7. your rights in relation to your personal data;
+  
   1.2.8. issues relating to marketing; and
+  
   1.2.9. how to contact us or the relevant supervisory authorities should you have a complaint.
+  
 1.3. The website to which this policy relates is operated by us. We are Therapy Nottingham of 8 Eldon Chambers, Nottingha, NG1 2NS. We are a psychotherapy service. Our principal contact for data protection purposes is Justin Clark, who may be contacted [here]({{< relref "/#contact" >}}).
+
 1.4. When we collect, use and process personal data we are subject to the provisions of the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. We are also subject to the EU General Data Protection Regulation (EU GDPR) in relation to personal data we collect, use and process in the European Economic Area (EEA). We are responsible as what is described as a ‘controller’ of that personal information for the purposes of those laws. In other words, we are primarily responsible for that data and are the ‘natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data’Footnote 3.
+
 1.5. If you have any questions about the use to which we put your data, please contact Justin Clark whose details are set out in paragraph 1.3 above.
+
 1.6. This policy relates to your use of our website and electronic communications. Please note that our website may link to other third-party websites that may also gather information about you. Third-party websites will operate in accordance with their own separate privacy policies, and we have no control over any personal data that they may acquire, store and use. For privacy information relating to these other third-party websites, you should consult their privacy policies as appropriate.
+
 1.7. We are committed to preserving the privacy of your data so that we can:
+
   1.7.1. deliver services of a high quality to clients;
+  
   1.7.2. at all times comply with the law and the various regulations that we are subject to;
+  
   1.7.3. meet the expectations of clients, employees and third parties; and
+  
   1.7.4. protect our reputation.
+  
 1.8. In this policy, please note the use of the following terms:
   - _personal data_ has the meaning given to it by the UK[/EU] GDPR and means any information relating to an identified or identifiable individual (known as a data subject);
   - _processing_ means any operation or actions performed on personal data; for example collection, recording, organisation, structuring, storing, altering, deleting or otherwise using personal data.
@@ -40,6 +60,7 @@ header:
   - _you and your_ refers to the person who is accessing our website and whose data is processed;
 
 ## 2 Your personal data
+
 2.1 Personal data is collected about you whenever you access our website, register with us, contact us, send us feedback, purchase products or services via our website, post material to our website, complete forms on our website, take part in customer surveys, participate in competitions via our website, submit reviews to or via our website.
 2.2 Personal data is collected either directly (for example when you register with us, contact us, purchase products or services from us, complete forms or submit reviews on or via our website) or indirectly (for example where you are browsing our website through the use of ‘cookies’).
 2.3 Personal data is also collected about you from telephone calls, text messages, electronic messaging platforms, and making payments to us.

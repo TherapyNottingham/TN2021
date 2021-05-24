@@ -16,10 +16,16 @@ header:
 
 ### If you are a new client and want to book an assessment session
 
-- Wednesday at 1:00pm with [Justin] ({{< relref "/authors/justin" >}})
-- We are currently very busy, and do not have any availability for new clients
-- You can [contact us] ({{< relref "/#contact" >}}) to ask about waiting list times
+{{% callout note %}}
+Wednesday at 1:00pm with [Justin]({{< relref "/authors/justin" >}})
+{{% /callout %}}
+
+{{% callout warning %}}
+We are currently very busy, and do not have any availability for new clients
+{{% /callout %}}
+
+You can [contact us]({{< relref "/#contact" >}}) to ask about waiting list times
 
 ### For existing clients
 
-- For additional sessions, cancellations, or to re-arrange appointments, please contact your psychotherapist directly, or [contact us] ({{< relref "/#contact" >}})
+For additional sessions, cancellations, or to re-arrange appointments, please contact your psychotherapist directly, or [contact us]({{< relref "/#contact" >}})

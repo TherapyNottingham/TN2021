@@ -12,6 +12,7 @@ header:
   caption: ""
   image: ""
 ---
+{{< toc >}}
 ## For individual psychotherapy
 
 ### If you are a new client and want to book an assessment session
@@ -40,9 +41,12 @@ header:
     <button type="submit">Send</button>
   </p>
 </form>
-<textarea name="message" form="webassessmentbooking">Include any further details here...</textarea>
+<textarea name="message" form="webassessmentbooking" placeholder="You can include any further details here"></textarea>
 
-You can [contact us]({{< relref "/#contact" >}}) to ask about waiting list times
+
+### For waiting list and general enquiries
+  
+You can [contact us]({{< relref "/#contact" >}}) to ask about waiting list times and any other general enquiry.
 
 ### For existing clients
 

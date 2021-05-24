@@ -19,30 +19,28 @@ header:
   <fieldset>
     <legend>Your details:</legend>
   <p>
-    <label for="name">Your Name:</label><input type="text" id="name">   
+    <label for="name">Your Name: </label><input type="text" id="name">   
   </p>
   <p>
-    <label for="email">Your Email:</label><input type="email" id="email">
+    <label for="email">Your Email: </label><input type="email" id="email">
   </p>
   <p>
-    <label for="phone">Enter your phone number:</label><input type="tel" id="phone" name="phone">
+    <label for="phone">Enter your phone number: </label><input type="tel" id="phone" name="phone">
   </fieldset>
   <firldset>
     <legend>Your appointment:</legend>
     <p>
-    <input type="radio" id="monday11" name="monday11" value="Monday at 11:00am"><label for="monday11">Monday at 11:00am</label><br>
-    <input type="radio" id="tuesday14" name="tuesday11" value="Tuesday at 2:00pm"><label for="tuesday11">Tuesday at 2:00pm</label><br>
-    <!-- <input type="radio" id="wednesday1730" name="wednesday1730" value="Wednesday at 5:30pm"><label for="wednesday1730">Wednesday at 5:30pm</label><br> -->
+    <input type="radio" id="monday11" name="appt" value="Monday at 11:00am"><label for="monday11"> Monday at 11:00am</label><br>
+    <input type="radio" id="tuesday14" name="appt" value="Tuesday at 2:00pm"><label for="tuesday11"> Tuesday at 2:00pm</label><br>
+    <!-- <input type="radio" id="wednesday1730" name="appt" value="Wednesday at 5:30pm"><label for="wednesday1730">Wednesday at 5:30pm</label><br> -->
     </p>
-  <p>
-    <label for="message">Message:</label><textarea name="message">
-  </p>
+  <p>You will receive a seperate email confirming the date and time of your booking.  You will usually receive a response within one working day.</p>
   <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
   </p>
 </form>
-
+<textarea name="message" form="webassessmentbooking">Include any further details here...</textarea>
 
 You can [contact us]({{< relref "/#contact" >}}) to ask about waiting list times
 

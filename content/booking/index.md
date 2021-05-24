@@ -1,5 +1,5 @@
 ---
-title: Bookings with Therapy Nottingham
+title: Booking with Therapy Nottingham
 summary: Book now
 
 reading_time: false  # Show estimated reading time?
@@ -35,7 +35,7 @@ header:
     <input type="radio" id="tuesday14" name="appt" value="Tuesday at 2:00pm"><label for="tuesday11"> Tuesday at 2:00pm</label><br>
     <!-- <input type="radio" id="wednesday1730" name="appt" value="Wednesday at 5:30pm"><label for="wednesday1730">Wednesday at 5:30pm</label><br> -->
     </p>
-  <p>You will receive a seperate email confirming the date and time of your booking.  You will usually receive a response within one working day.</p>
+  <p>We will contact you to confirm the date and time of your appointment.</p>
   <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>

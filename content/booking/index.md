@@ -41,7 +41,7 @@ header:
     <button type="submit">Send</button>
   </p>
 </form>
-<textarea name="message" form="webassessmentbooking" placeholder="You can include any further details here"></textarea>
+<textarea name="message" form="webassessmentbooking" rows="4" cols="50" placeholder="You can include any further details here"></textarea>
 
 
 ### For waiting list and general enquiries

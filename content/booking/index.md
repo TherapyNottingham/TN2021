@@ -16,6 +16,11 @@ header:
 ## For individual psychotherapy
 
 ### If you are a new client and want to book an assessment session
+<!--
+{{% callout warning %}}
+<p>Sorry, currently we have no availability for new clients.</p>
+{{% /callout %}}
+-->
 <form name="webassessmentbooking" method="POST" action="/message/thankyou" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
   <fieldset>
     <legend>Your details:</legend>
@@ -30,6 +35,7 @@ header:
   </fieldset>
   <fieldset>
     <legend>Your appointment:</legend>
+    <p>Choose your preferred appointment.</p>
     <p><label><input type="radio" name="appt" value="Monday 11:00"> Monday at 11:00am</label></p>
     <p><label><input type="radio" name="appt" value="Tuesday 13:00"> Tuesday at 1:00pm</label></p>
     <!-- <p><label><input type="radio" name="appt" value="Wednesday 14:00"> Monday at 2:00pm</label></p> -->
@@ -41,8 +47,6 @@ header:
     <button type="submit">Send</button>
   </p>
 </form>
-
-
 
 ### For waiting list and general enquiries
   

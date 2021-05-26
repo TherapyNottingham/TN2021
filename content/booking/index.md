@@ -20,28 +20,28 @@ header:
   <fieldset>
     <legend>Your details:</legend>
   <p>
-    <label for="name">Your Name: </label><input type="text" id="name">   
+    <label>Name: <input type="text" name="name" /></label>    
   </p>
   <p>
-    <label for="email">Your Email: </label><input type="email" id="email">
+    <label>Email: <input type="text" name="email" /></label> 
   </p>
   <p>
-    <label for="phone">Enter your phone number: </label><input type="tel" id="phone" name="phone">
+    <label>Telephone: <input type="text" name="telephone" /></label> 
   </fieldset>
-  <firldset>
+  <fieldset>
     <legend>Your appointment:</legend>
-    <p>
-    <input type="radio" id="monday11" name="appt" value="Monday at 11:00am"><label for="monday11"> Monday at 11:00am</label><br>
-    <input type="radio" id="tuesday14" name="appt" value="Tuesday at 2:00pm"><label for="tuesday11"> Tuesday at 2:00pm</label><br>
-    <!-- <input type="radio" id="wednesday1730" name="appt" value="Wednesday at 5:30pm"><label for="wednesday1730">Wednesday at 5:30pm</label><br> -->
-    </p>
+    <p><label><input type="radio" name="appt" value="Monday 11:00"> Monday at 11:00am</label></p>
+    <p><label><input type="radio" name="appt" value="Tuesday 13:00"> Tuesday at 1:00pm</label></p>
+    <!-- <p><label><input type="radio" name="appt" value="Wednesday 14:00"> Monday at 2:00pm</label></p> -->
+  </fieldset>
+  <p><textarea name="message" rows="4" cols="50" placeholder="You can include any further details here"></textarea></p>
   <p>We will contact you to confirm the date and time of your appointment.</p>
   <div data-netlify-recaptcha="true"></div>
   <p>
     <button type="submit">Send</button>
   </p>
 </form>
-<textarea name="message" form="webassessmentbooking" rows="4" cols="50" placeholder="You can include any further details here"></textarea>
+
 
 
 ### For waiting list and general enquiries

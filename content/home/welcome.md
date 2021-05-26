@@ -24,7 +24,7 @@ design:
 hero_media: welcome.jpg
 
 cta:
-  url: 'https://therapy-nottingham.selectandbook.com'
+  url: '/booking'
   label: Book your first appointment
   icon_pack: fas
   icon: calendar-check

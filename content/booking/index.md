@@ -36,8 +36,10 @@ header:
   <fieldset>
     <legend>Your appointment:</legend>
     <p>Choose your preferred appointment.</p>
-    <p><label><input type="radio" name="appt" value="Monday 11:00"> Monday at 11:00am</label></p>
-    <p><label><input type="radio" name="appt" value="Tuesday 13:00"> Tuesday at 1:00pm</label></p>
+    <p>
+      <label><input type="radio" name="appt" value="Monday 11:00"> Monday at 11:00am</label>
+      <label><input type="radio" name="appt" value="Tuesday 13:00"> Tuesday at 1:00pm</label>
+    </p>
     <!-- <p><label><input type="radio" name="appt" value="Wednesday 14:00"> Monday at 2:00pm</label></p> -->
   </fieldset>
   <p><textarea name="message" rows="4" cols="50" placeholder="You can include any further details here"></textarea></p>

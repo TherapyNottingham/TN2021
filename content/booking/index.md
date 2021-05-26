@@ -16,7 +16,7 @@ header:
 ## For individual psychotherapy
 
 ### If you are a new client and want to book an assessment session
-<form name="webassessmentbooking" method="POST" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
+<form name="webassessmentbooking" method="POST" action="/message/thankyou" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
   <fieldset>
     <legend>Your details:</legend>
   <p>

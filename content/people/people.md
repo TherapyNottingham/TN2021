@@ -18,6 +18,7 @@ content:
   user_groups:
   - Director
   - Psychotherapists
+  - Supervisors
   - Join Us
 design:
   show_interests: false

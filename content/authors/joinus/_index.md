@@ -67,7 +67,7 @@ email: ""
 user_groups:
 - Psychotherapists
 - Supervisors
-- JoinUs
+- Join Us
 ---
 
 If you are a qualified psychotherapists and would like to know more baout working with Therapy Nottingham then contact us.

@@ -10,28 +10,28 @@ role: Psychotherapist, supervisor, and Director of Therapy Nottingham
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
-  url: ""
+- name: Therapy Nottingham
+  url: "https://www.therapynottingham.co.uk"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: Psychotherapist and supervisor, interested in personality, self, and identity.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Self and identity
+- Personality development and disorder
+- Promoting integrative approaches
 
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: MSc Integrative Psychotherapy
+    institution: Sherwood Psychotherapy Training Institute
+    year: 2021
+  - course: Therapeutic Counselling Supervision
+    institution: CPCAB
+    year: 2017
+  - course: BSc (hons) Counselling and Psychotherapy
+    institution: Sherwood Psychotherapy Training Institute
+    year: 2013
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -44,9 +44,9 @@ social:
 - icon: mobile-alt
   icon_pack: fas
   link: 'tel:07519821746'
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/GeorgeCushen
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/justinclarkxyz
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -68,9 +68,9 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Researchers
+- Director
+- Psychotherapists
+- Supervisors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Justin Clark is a psychotherapist and supervisor.  Starting in private practice in 2013, Justin has since expanded his work through the development of Therapy Nottingham.  Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.  At Therapy Nottingham, we are interested in who you are, and invested in your growth and improvement.

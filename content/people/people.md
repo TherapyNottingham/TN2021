@@ -18,6 +18,7 @@ content:
   user_groups:
   - Director
   - Psychotherapists
+  - Join Us
 design:
   show_interests: false
   show_role: true

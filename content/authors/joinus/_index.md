@@ -26,12 +26,12 @@ interests:
 
 education:
   courses:
-  - course: We are always happy to hear from qualified psychotherapists
-    institution: 
-    year: 
-  - course: working within an integrative stance
-   institution:
-    year: 
+  - course: We are always happy to hear from qualified and accredited integrative psychotherapists
+    institution: e.g. UKCP, BAACP etc.
+    year: any
+#  - course: working within an integrative stance
+#   institution:
+#   year: 
 #  - course: BSc in Artificial Intelligence
 #    institution: Massachusetts Institute of Technology
 #    year: 2008

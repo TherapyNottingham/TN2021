@@ -1,6 +1,12 @@
 ---
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
 date: 2020-12-01
+summary: This is the summary of the prize winning post.
+image:
+  filename: work-3480187_1920.jpg
+  caption: What an image caption!
+  alt_text: Picture of plans.
+  focal_point: center
 ---
 
 Congratulations to Richard Hendricks for winning first place in the Wowchemy Prize.

@@ -2,6 +2,8 @@
 title: Richard Hendricks Wins First Place in the Wowchemy Prize
 date: 2020-12-01
 summary: This is the summary of the prize winning post.
+authors:
+  - justin
 image:
   filename: work-3480187_1920.jpg
   caption: What an image caption!

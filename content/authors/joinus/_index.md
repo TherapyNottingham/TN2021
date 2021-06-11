@@ -28,7 +28,6 @@ education:
   courses:
   - course: We are always happy to hear from qualified and accredited integrative psychotherapists
     institution: e.g. UKCP, BAACP etc.
-    year: any
 #  - course: working within an integrative stance
 #   institution:
 #   year: 
@@ -70,4 +69,4 @@ user_groups:
 - Join Us
 ---
 
-If you are a qualified psychotherapists and would like to know more baout working with Therapy Nottingham then contact us.
+We are always happy to hear from qualified psychotherapists who are interested in joining our team of Associate Therapists. If you would like to know more about working with Therapy Nottingham then [contact us]({{< relref "/#contact" >}}).

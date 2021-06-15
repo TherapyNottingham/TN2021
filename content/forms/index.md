@@ -1,6 +1,6 @@
 ---
 title: Forms
-summary: Securely complete information and feedback for Therapy Nottingham
+summary: Safely and securely complete information and feedback for Therapy Nottingham
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
@@ -13,6 +13,9 @@ header:
   image: ""
 ---
 ## Safely and securely complete information and feedback for Therapy Nottingham
+
+- Booking an appointment
+  - [Book online]({{< relref "/booking" >}}) - Select from the available times.
 
 - Before your appointment
   - [Pre-Session Assessment](https://forms.office.com/r/4fvx2CHFq9) - Optionally complete this short assessment prior to your psychotherapy appointments.

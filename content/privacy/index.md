@@ -36,7 +36,7 @@ header:
   
   - 1.2.9 how to contact us or the relevant supervisory authorities should you have a complaint.
   
-1.3 The website to which this policy relates is operated by us. We are Therapy Nottingham of 8 Eldon Chambers, Nottingha, NG1 2NS. We are a psychotherapy service. Our principal contact for data protection purposes is Justin Clark, who may be contacted [here]({{< relref "/#contact" >}}).
+1.3 The website to which this policy relates is operated by us. We are Therapy Nottingham of 8 Eldon Chambers, Nottingham, NG1 2NS. We are a psychotherapy service. Our principal contact for data protection purposes is Justin Clark, who may be contacted [here]({{< relref "/#contact" >}}).
 
 1.4 When we collect, use and process personal data we are subject to the provisions of the UK General Data Protection Regulation (UK GDPR) and the Data Protection Act 2018. We are also subject to the EU General Data Protection Regulation (EU GDPR) in relation to personal data we collect, use and process in the European Economic Area (EEA). We are responsible as what is described as a ‘controller’ of that personal information for the purposes of those laws. In other words, we are primarily responsible for that data and are the ‘natural or legal person, public authority, agency or other body which, alone or jointly with others, determines the purposes and means of the processing of personal data’Footnote 3.
 
@@ -55,7 +55,7 @@ header:
   - 1.7.4 protect our reputation.
   
 1.8. In this policy, please note the use of the following terms:
-  - _personal data_ has the meaning given to it by the UK[/EU] GDPR and means any information relating to an identified or identifiable individual (known as a data subject);
+  - _personal data_ has the meaning given to it by the UK GDPR and means any information relating to an identified or identifiable individual (known as a data subject);
   - _processing_ means any operation or actions performed on personal data; for example collection, recording, organisation, structuring, storing, altering, deleting or otherwise using personal data.
   - _we, us and our_ refers to Therapy Nottinfham and its directors;
   - _you and your_ refers to the person who is accessing our website and whose data is processed;

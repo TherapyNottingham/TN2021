@@ -38,7 +38,7 @@ header:
     <p>Choose your preferred appointment.</p>
     <p>
       <!-- List available appointments here, comment out any unavailable ones using html commenting -->
-      <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with Justin</label><br>
+      <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
       <label><input type="radio" name="appt" value="Justin Tuesday 12:30"> Tuesday at 12:30pm with Justin</label><br>
     </p>
     <p>

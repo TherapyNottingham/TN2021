@@ -37,10 +37,15 @@ header:
     <legend>Your appointment:</legend>
     <p>Choose your preferred appointment.</p>
     <p>
-      <label><input type="radio" name="appt" value="Monday 11:00"> Monday at 11:00am</label><br>
-      <label><input type="radio" name="appt" value="Tuesday 13:00"> Tuesday at 1:00pm</label><br>
+      <!-- List available appointments here, comment out any unavailable ones using html commenting -->
+      <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with Justin</label><br>
+      <label><input type="radio" name="appt" value="Justin Tuesday 12:30"> Tuesday at 12:30pm with Justin</label><br>
     </p>
-    <!-- <p><label><input type="radio" name="appt" value="Wednesday 14:00"> Monday at 2:00pm</label></p> -->
+    <p>
+      If there are no appointments availabe or you are unable to attend any of the available times, you can join the waiting list.<br>
+      Please be aware that we can not guarantee when further appointments will become available.<br>
+      <label><input type="radio" name="appt" value="Waiting List"> Waiting List (if you have any specific requirements, please inclue this information below)</label><br>
+    </p>
   </fieldset>
   <p><textarea name="message" rows="4" cols="50" placeholder="You can include any further details here"></textarea></p>
   <p>We will contact you to confirm the date and time of your appointment.</p>
@@ -52,7 +57,7 @@ header:
 
 ### For waiting list and general enquiries
   
-You can [contact us]({{< relref "/#contact" >}}) to ask about waiting list times and any other general enquiry.
+You can [contact us]({{< relref "/#contact" >}}) to ask about the waiting list times and any other general enquiry.
 
 ### For existing clients
 

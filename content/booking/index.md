@@ -22,7 +22,7 @@ header:
 {{% /callout %}}
 -->
 <style>
-input, select {
+input[type=text], select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;

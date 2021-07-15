@@ -22,7 +22,7 @@ header:
 {{% /callout %}}
 -->
 <style>
-input[type=text], select {
+input, select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -32,7 +32,7 @@ input[type=text], select {
   box-sizing: border-box;
 }
 
-input[type=submit] {
+button[type=submit] {
   width: 100%;
   background-color: #4CAF50;
   color: white;
@@ -43,7 +43,7 @@ input[type=submit] {
   cursor: pointer;
 }
 
-input[type=submit]:hover {
+button[type=submit]:hover {
   background-color: #45a049;
 }
 
@@ -53,6 +53,7 @@ input[type=submit]:hover {
   padding: 20px;
 }
 </style>
+
 <div class="assessmentbookingform">
 <form name="webassessmentbooking" method="POST" action="/message/thankyou" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
   <fieldset>

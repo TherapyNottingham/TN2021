@@ -47,13 +47,13 @@ input[type=submit]:hover {
   background-color: #45a049;
 }
 
-div {
+.assessmentbookingform {
   border-radius: 5px;
   background-color: #f2f2f2;
   padding: 20px;
 }
 </style>
-<div>
+<div class="assessmentbookingform">
 <form name="webassessmentbooking" method="POST" action="/message/thankyou" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
   <fieldset>
     <legend>Your details:</legend>

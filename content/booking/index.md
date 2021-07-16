@@ -16,25 +16,21 @@ header:
 ## For individual psychotherapy
 
 ### If you are a new client and want to book an assessment session
-<!--
-{{% callout warning %}}
-<p>Sorry, currently we have no availability for new clients.</p>
-{{% /callout %}}
--->
+
 <style>
 input[type=text], select {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
   display: inline-block;
-  border: 1px solid #ccc;
+  border: 1px solid #3c5d55;
   border-radius: 4px;
   box-sizing: border-box;
 }
 
 button[type=submit] {
   width: 100%;
-  background-color: #4CAF50;
+  background-color: #149f9d;
   color: white;
   padding: 14px 20px;
   margin: 8px 0;
@@ -44,12 +40,12 @@ button[type=submit] {
 }
 
 button[type=submit]:hover {
-  background-color: #45a049;
+  background-color: #00c0c0;
 }
 
 .assessmentbookingform {
   border-radius: 5px;
-  background-color: #f2f2f2;
+  background-color: #eaece9;
   padding: 20px;
 }
 </style>
@@ -76,12 +72,17 @@ button[type=submit]:hover {
       <label><input type="radio" name="appt" value="Justin Tuesday 12:30"> Tuesday at 12:30pm with Justin</label><br>
     </p>
     <p>
-      If there are no appointments availabe or you are unable to attend any of the available times, you can join the waiting list.<br>
+      {{% callout warning %}}
+      <!--
+      Sorry, currently we have no availability for new clients.
+      -->
+      If you are unable to attend any of the available times, you can join the waiting list.<br>
       Please be aware that we can not guarantee when further appointments will become available.<br>
-      <label><input type="radio" name="appt" value="Waiting List"> Waiting List (if you have any specific requirements, please include this information below)</label><br>
+      {{% /callout %}}
+      <label><input type="radio" name="appt" value="Waiting List"> Join the waiting list (if you have any specific requirements, please include this information below)</label><br>
     </p>
   </fieldset>
-  <p><textarea name="message" rows="4" cols="50" placeholder="You can include any further details here"></textarea></p>
+  <p><textarea name="message" rows="4" cols="50" placeholder="You can include any further details here."></textarea></p>
   <p>We will contact you to confirm the date and time of your appointment.</p>
   <div data-netlify-recaptcha="true"></div>
   <p>

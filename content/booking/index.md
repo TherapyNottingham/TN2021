@@ -71,12 +71,12 @@ button[type=submit]:hover {
       <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
       <label><input type="radio" name="appt" value="Justin Tuesday 12:30"> Tuesday at 12:30pm with Justin</label><br>
     </p>
-    <p>
-      {{% callout warning %}}
+    <legend>Waiting list:</legend>
+      <p>
       If you are unable to attend any of the available times, you can join the waiting list.<br>
       Please be aware that we can not guarantee when further appointments will become available.<br>
-      {{% /callout %}}
-      
+      </p>
+      <p>
       <label><input type="radio" name="appt" value="Waiting List"> Join the waiting list (if you have any specific requirements, please include this information below)</label><br>
     </p>
   </fieldset>

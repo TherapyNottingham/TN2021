@@ -18,7 +18,7 @@ header:
 ### If you are a new client and want to book an assessment session
 
 <style>
-input[type=text], select {
+input[type=text] {
   width: 100%;
   padding: 12px 20px;
   margin: 8px 0;
@@ -55,12 +55,9 @@ button[type=submit]:hover {
   <fieldset>
     <legend>Your details:</legend>
   <p>
-    <label>Name: <input type="text" name="name" placeholder="Your Name" required/></label>    
-  </p>
-  <p>
+    <label for="uname">Your Name</label>
+    <input type="text" id="uname" name="yourname" placeholder="Your name..">
     <label>Email: <input type="text" name="email" placeholder="Your email" required/></label> 
-  </p>
-  <p>
     <label>Telephone: <input type="text" name="telephone" placeholder="Your telephone"/></label> 
   </fieldset>
   <fieldset>

@@ -55,11 +55,16 @@ button[type=submit]:hover {
   <fieldset>
     <legend>Your details:</legend>
   <p>
-    <label for="uname">Your Name</label>
-    <input type="text" id="uname" name="yourname" placeholder="Your name..">
-    <label>Email: <input type="text" name="email" placeholder="Your email" required/></label> 
-    <label>Telephone: <input type="text" name="telephone" placeholder="Your telephone"/></label> 
-  </fieldset>
+    <label for="uname">Name:</label>
+    <input type="text" id="uname" name="yourname" placeholder="Your name...">
+    
+    <label for="uemail">Email address:</label>
+    <input type="text" id="uemail" name="youremail" placeholder="Your email..">
+    
+    <label for="utel">Telephone:</label>
+    <input type="text" id="utel" name="yourtel" placeholder="Preferred telephone number....">
+    
+    </fieldset>
   <fieldset>
     <legend>Your appointment:</legend>
     <p>Choose your preferred appointment.</p>

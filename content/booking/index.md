@@ -73,12 +73,10 @@ button[type=submit]:hover {
     </p>
     <p>
       {{% callout warning %}}
-      <!--
-      Sorry, currently we have no availability for new clients.
-      -->
       If you are unable to attend any of the available times, you can join the waiting list.<br>
       Please be aware that we can not guarantee when further appointments will become available.<br>
       {{% /callout %}}
+      
       <label><input type="radio" name="appt" value="Waiting List"> Join the waiting list (if you have any specific requirements, please include this information below)</label><br>
     </p>
   </fieldset>

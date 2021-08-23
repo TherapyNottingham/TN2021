@@ -88,10 +88,14 @@ button[type=submit]:hover {
 </form>
 </div>
 
-### For waiting list and general enquiries
+## For waiting list and general enquiries
   
 You can [contact us]({{< relref "/#contact" >}}) to ask about the waiting list times and any other general enquiry.
 
-### For existing clients
+## For Supervision and Consultation enquiries
+
+You can [contact us]({{< relref "/#contact" >}}) to discuss availability and what it is you are looking for.
+
+## For existing clients
 
 For additional sessions, cancellations, or to re-arrange appointments, please contact your psychotherapist directly, or [contact us]({{< relref "/#contact" >}})

@@ -98,4 +98,4 @@ You can [contact us]({{< relref "/#contact" >}}) to discuss availability and wha
 
 ## For existing clients
 
-For additional sessions, cancellations, or to re-arrange appointments, please contact your psychotherapist directly, or [contact us]({{< relref "/#contact" >}})
+For additional sessions, cancellations, or to re-arrange appointments, please contact [your psychotherapist]({{< relref "/people" >}}) directly, or [contact us]({{< relref "/#contact" >}}).

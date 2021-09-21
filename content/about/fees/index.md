@@ -19,12 +19,18 @@ header:
 
 ## Individual Supervision
 
-£50 per hour (minimum 1hr booking)
+£50 per hour
+Minimum 1 hour booking.
 
 ## Professional consultation
 
 From £75 for one hour, for one-off appointment
+Additional fees may apply for report writing.
 
 ## For other services
 
 Please [contact us]({{< relref "/#contact" >}}) for further details of fees for any other services.
+
+## Fee changes
+
+Our fees are reviewed annually in April.

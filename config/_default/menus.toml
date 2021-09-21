@@ -60,6 +60,12 @@
   weight = 5
 
 [[main]]
+  name = "Fees"
+  parent = "About"
+  url = "/about/fees"
+  weight = 99
+
+[[main]]
   name = "Contact"
   url = "#contact"
   weight = 60

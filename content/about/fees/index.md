@@ -25,6 +25,7 @@ Minimum 1 hour booking.
 ## Professional consultation
 
 From £75 for one hour, for one-off appointment
+
 Additional fees may apply for report writing.
 
 ## For other services

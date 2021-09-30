@@ -102,15 +102,8 @@ directions = "Appointments only. Press buzzer for Office E, on the first floor, 
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
-#office_hours = ["Monday 10:00am - 8:00pm","Tuesday 11:00am - 6:00pm","Wednesday 10:00am - 8:00pm","Thursday 10:00am - 8:00pm","Friday 10:00am - 5:00pm","Saturday Closed","Sunday Closed"]
-office_hours = [| Monday    | 10:00am - 8:00pm |
-|-----------|------------------|
-| Tuesday   | 11:00am - 6:00pm |
-| Wednesday | 10:00am - 8:00pm |
-| Thursday  | 10:00am - 8:00pm |
-| Friday    | 10:00am - 5:00pm |
-| Saturday  | Closed           |
-| Sunday    | Closed           |]
+office_hours = ["Monday 10:00am - 8:00pm","Tuesday 11:00am - 6:00pm","Wednesday 10:00am - 8:00pm","Thursday 10:00am - 8:00pm","Friday 10:00am - 5:00pm","Saturday Closed","Sunday Closed"]
+
 # Enter an optional link for booking appointments (e.g. calendly.com).
 appointment_url = "https://www.therapynottingham.co.uk"
 

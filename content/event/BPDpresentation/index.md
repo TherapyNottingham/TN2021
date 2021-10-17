@@ -13,7 +13,7 @@ address:
   country: 
 
 summary: Justin will be presenting his BPD research as part of the SPTI Research Showcase 2021
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+abstract: From Diagnosis towards a relational and developmental understanding of Borderline Personality Disorder.
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,14 +31,10 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: 
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: 
-  url: 
 url_code: ""
 url_pdf: ""
 url_slides: ""

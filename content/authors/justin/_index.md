@@ -18,7 +18,7 @@ bio: Psychotherapist and supervisor, interested in personality, self, and identi
 
 interests:
 - Self and identity
-- Personality development and disorder
+- Personality development and 'disorder'
 - Promoting integrative approaches
 
 education:
@@ -73,4 +73,4 @@ user_groups:
 - Supervisors
 ---
 
-Justin Clark is a psychotherapist and supervisor.  Starting in private practice in 2013, Justin has since expanded his work through the development of Therapy Nottingham.  Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.  At Therapy Nottingham, we are interested in who you are, and invested in your growth and improvement.
+Justin Clark is a psychotherapist and supervisor.  Starting in private practice in 2013, Justin has since expanded his work through the development of Therapy Nottingham.  Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.

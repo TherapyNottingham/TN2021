@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Justin Clark
+title: Andréa Damico
 
 # Is this the primary user of the site?
 superuser: false

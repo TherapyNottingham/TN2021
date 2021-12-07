@@ -1,9 +1,6 @@
 ---
-image:
-  filename: work_plans.jpg
-  caption: 
-  alt_text: Picture of plans.
-  focal_point: center
+title: Therapy Nottingham is expanding!
+subtitle: Therapy Nottingham is expanding and moving to a new City Centre location.
 
 # Summary for listings and search engines
 summary: Therapy Nottingham is expanding and moving to a new City Centre location.

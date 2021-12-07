@@ -1,14 +1,43 @@
 ---
-title: Therapy Nottingham is expanding!
-date: 2021-08-01
-summary: Therapy Nottingham is expanding and moving to a new City Cenre location.
-authors:
-  - justin
 image:
   filename: work_plans.jpg
   caption: 
   alt_text: Picture of plans.
   focal_point: center
+
+# Summary for listings and search engines
+summary: Therapy Nottingham is expanding and moving to a new City Centre location.
+
+# Link this post with a project
+projects: []
+
+# Date published
+date: "2021-08-09T00:00:00Z"
+
+# Date updated
+lastmod: "2021-08-09T00:00:00Z"
+
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: ''
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
+authors:
+- justin
+
+# tags:
+
+# categories:
+
 ---
 
 Opening in 2022, the Therapy Nottingham service will be expanding, and moving to a new city-centre location.

@@ -12,9 +12,9 @@ header:
   image: ""
 ---
 
-{{% alert warning %}}
+{{% callout warning %}}
 If your life is at risk right now
-{{% /alert %}}
+{{% /callout %}}
 
 ## If you feel like you might attempt suicide, or may have seriously harmed yourself, you need urgent medical help.
 

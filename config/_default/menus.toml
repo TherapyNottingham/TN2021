@@ -64,6 +64,12 @@
   parent = "About"
   url = "/about/fees"
   weight = 90
+
+[[main]]
+  name = "Covid-19"
+  parent = "About"
+  url = "/covid"
+  weight = 97
   
 [[main]]
   name = "In a crisis?"

@@ -5,7 +5,7 @@ advanced:
 widget: hero
 widget_id: Headline
 headless: true
-weight: 1
+weight: 5
 title: Therapy Nottingham
 subtitle: Integrative Psychotherapy in Nottingham
 

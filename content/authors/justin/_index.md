@@ -73,4 +73,8 @@ user_groups:
 - Supervisors
 ---
 
-Justin Clark is a psychotherapist and supervisor.  Starting in private practice in 2013, Justin has since expanded his work through the development of Therapy Nottingham.  Therapy Nottingham is a pioneering integrative psychotherapy centre in Nottingham.  We provide quality care and support without time limits, and tailored to our clients individual needs.
+Justin Clark is a psychotherapist and supervisor.  Starting in private practice in 2013, Justin has since expanded his work through the development of Therapy Nottingham.  Previousy he has managed therapy services for children and young people in school and third-sector settings.
+
+{{< figure src="BACP_57060.jpg" caption="BACP Accredited no. 57060" numbered="false" >}}
+
+

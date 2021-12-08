@@ -65,6 +65,10 @@ Whatever apparent similarities there may be, your individual experience is inevi
 - take advantage of you
 - spend time talking about their problems inappropriately
 
+## Video / online psychotherapy sessions
+
+We beleive that Integrative psychotherapy has the greatest potential as an in-person service, which is our primary provision.  This is not to say that working online can not be effective, but we recognise the significant limitation placed on a relational experience by working this way.  In some instances, it may not be possible for in-person sessions to take place (for example, due to geography, or Covid restrictions) and so working online remains an option which you can discuss either through your [refrral]({{< relref "/booking" >}}) or with [your therapist]({{< relref "/people" >}}).
+
 ## Ethical practice
 
 All psychotherapists and supervisors at Therapy Nottingham work within the professional and ethical guidlines of the [British Association for Counselling and Psychotherapy (BACP)](https://www.bacp.co.uk) and/or the [United Kingdom Council for Psychotherapy (UKCP)](https://www.psychotherapy.org.uk).  You can read more about these expectations on the respsective websites.

@@ -27,7 +27,7 @@ Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID
 {{% /callout %}}
 
 # Vaccination
-- We strongly encourage everyone to [https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/book-coronavirus-vaccination/](get vaccinated) as soon as possible
+- We strongly encourage everyone to [get vaccinated](https://www.nhs.uk/conditions/coronavirus-covid-19/coronavirus-vaccination/book-coronavirus-vaccination/) as soon as possible
 
 # Arriving and leaving
 - Do not arrive early for appointments, and move directly to the office (or exit)

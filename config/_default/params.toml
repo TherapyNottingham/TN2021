@@ -156,7 +156,7 @@ copyright_license = {enable = false, allow_derivatives = false, share_alike = tr
 
 # Load JS plugins
 #   E.g. To load `/assets/js/custom.js`, set `plugins_js = ["custom"]`.
-plugins_js  = [moosend]
+plugins_js  = ["moosend"]
 
 # Avatars.
 # An avatar is an image that appears next to a user's name.

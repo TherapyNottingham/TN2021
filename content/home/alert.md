@@ -12,8 +12,8 @@ headless: true
 # Order that this section appears on the page.
 weight: 1
 
-title: Covid-19
-subtitle: Current arrangements and requirements
+title: 
+subtitle: 
 
 design:
   columns: "1"
@@ -28,5 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 {{% callout note %}}
-As with many other services, there are some changes at Therapy Nottingham during the Covid restrictions.
+As with many other services, there are [some changes at Therapy Nottingham]({{< relref "/covid" >}}) during the Covid restrictions.
 {{% /callout %}}

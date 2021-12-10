@@ -52,23 +52,17 @@ button[type=submit]:hover {
 
 <div class="assessmentbookingform">
 <form name="webassessmentbooking" method="POST" action="/message/thankyou" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
-  <fieldset>
-    <legend>Your details:</legend>
-  <p>
-    <label for="uname">Name:</label>
-    <input type="text" id="uname" name="yourname" placeholder="Your name...">
-    <label for="uemail">Email address:</label>
-    <input type="text" id="uemail" name="youremail" placeholder="Your email..">
-    <label for="utel">Telephone:</label>
-    <input type="text" id="utel" name="yourtel" placeholder="Preferred telephone number....">  
-  </fieldset>
-  <fieldset>
-    <legend>Your appointment:</legend>
-    <p>Choose your preferred appointment.</p>
+    <fieldset>
+    <legend>Available appointments:</legend>
+    <p>Choose your preferred option.</p>
     <p>
       <!-- List available appointments here, comment out any unavailable ones using html commenting -->
       <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
-      <label><input type="radio" name="appt" value="Justin Tuesday 12:30"> Tuesday at 12:30pm with Justin</label><br>
+      <!--
+      <label><input type="radio" name="appt" value="Abi Friday 14:00"> Friday at 2:00pm with {{% mention "abi" %}}</label><br>
+      -->
+      <label><input type="radio" name="appt" value="Abi Friday 15:00"> Friday at 3:00pm with {{% mention "abi" %}}</label><br>
+      <label><input type="radio" name="appt" value="Abi Friday 16:00"> Friday at 4:00pm with {{% mention "abi" %}}</label><br>
     </p>
     <legend>Waiting list:</legend>
       <p>
@@ -78,6 +72,16 @@ button[type=submit]:hover {
       <p>
       <label><input type="radio" name="appt" value="Waiting List"> Join the waiting list (if you have any specific requirements, please include this information below)</label><br>
     </p>
+  </fieldset>
+  <fieldset>
+    <legend>Your details:</legend>
+  <p>
+    <label for="uname">Name:</label>
+    <input type="text" id="uname" name="yourname" placeholder="Your name...">
+    <label for="uemail">Email address:</label>
+    <input type="text" id="uemail" name="youremail" placeholder="Your email..">
+    <label for="utel">Telephone:</label>
+    <input type="text" id="utel" name="yourtel" placeholder="Preferred telephone number....">  
   </fieldset>
   <p><textarea name="message" rows="4" cols="50" placeholder="You can include any further details here."></textarea></p>
   <p>We will contact you to confirm the date and time of your appointment.</p>

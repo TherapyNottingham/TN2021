@@ -17,7 +17,7 @@ organizations:
 bio: Psychotherapist and supervisor, interested in personality, self, and identity.
 
 interests:
-- TBC
+- Spiritual and religious trauma
 
 education:
   courses:
@@ -61,5 +61,5 @@ user_groups:
 - Psychotherapists
 ---
 
-Abi will say something about herself here.
+Abi is an Integrative Psychotherapist, with a relational and developmental approach. She has over 7 years’ experience working in various NHS mental health and third sector settings, with a background in Occupational Therapy. Her passion is supporting people towards greater emotional wellbeing in order that they may live a whole and fulfilled life. Abi has experience in working with people who have experienced complex trauma and who may have attracted a diagnosis of personality disorder. 
 

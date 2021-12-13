@@ -54,11 +54,12 @@ button[type=submit]:hover {
 <form name="webassessmentbooking" method="POST" action="/message/thankyou" autocomplete="on" data-netlify-recaptcha="true" data-netlify="true">
     <fieldset>
     <legend>Available appointments:</legend>
-    <p>Choose your preferred option.</p>
     <p>
-      <!-- List available appointments here, comment out any unavailable ones using html commenting -->
+    The Therapy Nottingham service is very busy right now, and we have extremely limited capacity for new clients at this time.<br>
+    Choose your preferred option.</p>
+    <p>
+      <!-- List available appointments here, comment out any unavailable ones using html commenting
       <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
-      <!--
       <label><input type="radio" name="appt" value="Abi Friday 14:00"> Friday at 2:00pm with {{% mention "abi" %}}</label><br>
       -->
       <label><input type="radio" name="appt" value="Abi Friday 15:00"> Friday at 3:00pm with {{% mention "abi" %}}</label><br>

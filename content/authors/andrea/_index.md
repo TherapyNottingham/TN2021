@@ -39,6 +39,9 @@ social:
 - icon: mobile-alt
   icon_pack: fas
   link: 'tel:07519821746'
+- icon: calendar-alt
+  icon-pack: far
+  link: https://www.therapynottingham.co.uk/booking
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

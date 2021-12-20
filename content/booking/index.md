@@ -58,12 +58,15 @@ button[type=submit]:hover {
     The Therapy Nottingham service is very busy right now, and we have extremely limited capacity for new clients at this time.<br>
     Choose your preferred option.</p>
     <p>
-      <!-- List available appointments here, comment out any unavailable ones using html commenting
+      <!-- List available appointments here, comment out any unavailable ones using html commenting-->
+      <!--
+      <label><input type="radio" name="appt" value="Abi Monday 10:00"> Monday at 10:00am with {{% mention "abi" %}}</label><br>
       <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
       <label><input type="radio" name="appt" value="Abi Friday 14:00"> Friday at 2:00pm with {{% mention "abi" %}}</label><br>
+      <label><input type="radio" name="appt" value="Abi Friday 15:30"> Friday at 3:30pm with {{% mention "abi" %}}</label><br>
       -->
-      <label><input type="radio" name="appt" value="Abi Friday 15:00"> Friday at 3:00pm with {{% mention "abi" %}}</label><br>
-      <label><input type="radio" name="appt" value="Abi Friday 16:00"> Friday at 4:00pm with {{% mention "abi" %}}</label><br>
+      <label><input type="radio" name="appt" value="Abi Friday 10:00"> Friday at 10:00am with {{% mention "abi" %}}</label><br>
+      <label><input type="radio" name="appt" value="Abi Friday 17:00"> Friday at 5:00pm with {{% mention "abi" %}}</label><br>
     </p>
     <legend>Waiting list:</legend>
       <p>

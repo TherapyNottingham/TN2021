@@ -36,7 +36,7 @@ social:
   link: 'mailto:abi@therapynottingham.co.uk'
 - icon: mobile-alt
   icon_pack: fas
-  link: 'tel:07519821746'
+  link: 'tel:07598893535'
 - icon: instagram
   icon_pack: fab
   link: https://instagram.com/abigraves_psychotherapist

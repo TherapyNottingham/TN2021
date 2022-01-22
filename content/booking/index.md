@@ -64,15 +64,14 @@ button[type=submit]:hover {
       <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
       -->
       <label><input type="radio" name="appt" value="Andrea Wednesday 14:30"> Wednesday at 2:30pm with {{% mention "andrea" %}}**</label><br>
+      <label><input type="radio" name="appt" value="Abi Friday 10:30"> Friday at 10:30am with {{% mention "abi" %}}</label><br>
       <!--
       <label><input type="radio" name="appt" value="Abi Friday 14:00"> Friday at 2:00pm with {{% mention "abi" %}}</label><br>
       <label><input type="radio" name="appt" value="Abi Friday 15:30"> Friday at 3:30pm with {{% mention "abi" %}}</label><br>
-      <label><input type="radio" name="appt" value="Abi Friday 10:30"> Friday at 10:30am with {{% mention "abi" %}}</label><br>
-      -->
       <label><input type="radio" name="appt" value="Abi Friday 12:00"> Friday at 12:00pm with {{% mention "abi" %}}</label><br>
-      <!--
-      <label><input type="radio" name="appt" value="Abi Friday 17:00"> Friday at 5:00pm with {{% mention "abi" %}}</label><br>
       -->
+      <label><input type="radio" name="appt" value="Abi Friday 17:00"> Friday at 5:00pm with {{% mention "abi" %}}</label><br>
+      <br>
       ** During the current building works at our new city centre offices, some appointments will be temporarily moved to alternative locations.
     </p>
     <legend>Waiting list:</legend>

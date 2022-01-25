@@ -68,7 +68,7 @@
 [[main]]
   name = "Covid-19"
   parent = "About"
-  url = "/covid"
+  url = "/about/covid"
   weight = 97
   
 [[main]]

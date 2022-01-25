@@ -3,6 +3,7 @@ title: Covid-19
 date: "2020-08-05T00:00:00+01:00"
 draft: false
 share: true
+profile: false  # Show author profile?
 commentable: false
 editable: false
 
@@ -14,13 +15,13 @@ header:
 In response to the COVID-19 situation, the following additional practices are currently in place at the Therapy Nottingham.
 
 {{% callout warning %}}
-Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID-19) infection, or have been instructed to self-isolate 
-- Video appointments are available as an alternative 
+Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID-19) infection, or have been instructed to self-isolate
+- Video appointments are available as an alternative
 {{% /callout %}}
 
-- If you develop symptoms, or are informed that you have been in contact with someone who has, you must inform us immediately. 
-- If your therapist develops symptoms or is informed that they have been in contact with someone who has, it may be necessary for us to disclose our contact in the interest of public safety. 
-- In-person appointments may be subject to further change and temporary reversion to online working in line with guidance from professional bodies, local lockdown or national responses. 
+- If you develop symptoms, or are informed that you have been in contact with someone who has, you must inform us immediately.
+- If your therapist develops symptoms or is informed that they have been in contact with someone who has, it may be necessary for us to disclose our contact in the interest of public safety.
+- In-person appointments may be subject to further change and temporary reversion to online working in line with guidance from professional bodies, local lockdown or national responses.
 
 {{% callout note %}}
   The most up to date information from NHS is available at [https://www.nhs.uk/conditions/coronavirus-covid-19/](https://www.nhs.uk/conditions/coronavirus-covid-19/)
@@ -36,7 +37,7 @@ Do NOT come to Therapy Nottingham if you have any symptoms of Coronavirus (COVID
 - Everyone is expected to wear a mask when entering the building and at all times in shared spaces
 
 # Corridors and stairways
-- Wear a face mask whenever in shared spaces, including when arriving and leaving the building 
+- Wear a face mask whenever in shared spaces, including when arriving and leaving the building
 
 # In the office
 - Hand sanitiser is available in the office

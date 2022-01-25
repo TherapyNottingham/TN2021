@@ -28,5 +28,5 @@ design:
     padding: ["20px", "0", "20px", "0"]
 ---
 {{% callout note %}}
-As with many other services, there are [some changes at Therapy Nottingham]({{< relref "/covid" >}}) during the Covid restrictions.
+There are [some changes at Therapy Nottingham]({{< relref "/covid" >}}) during the Covid pandemic.
 {{% /callout %}}

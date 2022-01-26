@@ -78,6 +78,11 @@
   weight = 99
 
 [[main]]
+  name = "Book now"
+  url = "/booking"
+  weight = 60
+
+[[main]]
   name = "Contact"
   url = "#contact"
-  weight = 60
+  weight = 70

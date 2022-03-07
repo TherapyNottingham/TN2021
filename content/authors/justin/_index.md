@@ -12,6 +12,12 @@ role: Psychotherapist, supervisor, and Director of Therapy Nottingham
 organizations:
 - name: Therapy Nottingham
   url: "https://www.therapynottingham.co.uk"
+- name: "Email: justin@therapynottingham.co.uk"
+  url: "mailto:justin@therapynottingham.co.uk"
+- name: "Office: 0115 7722132"
+  url: "tel:01157722132"
+- name: "Mobile: 07519 821 746"
+  url: "tel:07519821746"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist and supervisor, interested in personality, self, and identity.

@@ -12,6 +12,10 @@ role: Psychotherapist
 organizations:
 - name: Therapy Nottingham
   url: "https://www.therapynottingham.co.uk"
+- name: "Email: andrea@therapynottingham.co.uk"
+  url: "mailto:andrea@therapynottingham.co.uk"
+- name: "Office: 0115 7722132"
+  url: "tel:01157722132"
 - name: "Mobile: 07762 631 827"
   url: "tel:07762631827"
 

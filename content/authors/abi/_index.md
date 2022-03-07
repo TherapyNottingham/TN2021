@@ -12,6 +12,12 @@ role: Psychotherapist
 organizations:
 - name: Therapy Nottingham
   url: "https://www.therapynottingham.co.uk"
+- name: "Email: abi@therapynottingham.co.uk"
+  url: "mailto:abi@therapynottingham.co.uk"
+- name: "Office: 0115 7722132"
+  url: "tel:01157722132"
+- name: "Mobile: 07598 893 535"
+  url: "tel:07598893535"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist and supervisor, interested in personality, self, and identity.

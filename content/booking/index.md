@@ -55,18 +55,20 @@ button[type=submit]:hover {
     <fieldset>
     <legend>Available appointments:</legend>
     <p>
+    <!--
     The Therapy Nottingham service is very busy right now, and we have extremely limited capacity for new clients at this time.<br>
-    Choose your preferred option.</p>
+    Choose your preferred option.
+    -->
+    We're sorry, there are no times availabe for you to book right now.  You can join our waiting list to be updated when the next appointment is available, or check back later.
+    </p>
     <p>
       <!-- List available appointments here, comment out any unavailable ones using html commenting-->
+      <!--
       <label><input type="radio" name="appt" value="Abi Monday 10:00"> Monday at 10:00am with {{% mention "abi" %}}</label><br>
       <label><input type="radio" name="appt" value="Abi Monday 12:00"> Monday at 12:00pm with {{% mention "abi" %}}</label><br>
-      <!--
       <label><input type="radio" name="appt" value="Justin Tuesday 11:00"> Tuesday at 11:00am with {{% mention "justin" %}}</label><br>
       <label><input type="radio" name="appt" value="Andrea Wednesday 14:30"> Wednesday at 2:30pm with {{% mention "andrea" %}}**</label><br>
-      -->
       <label><input type="radio" name="appt" value="Abi Friday 10:30"> Friday at 10:30am with {{% mention "abi" %}}</label><br>
-      <!--
       <label><input type="radio" name="appt" value="Abi Friday 12:00"> Friday at 12:00pm with {{% mention "abi" %}}</label><br>
       <label><input type="radio" name="appt" value="Abi Friday 14:00"> Friday at 2:00pm with {{% mention "abi" %}}</label><br>
       <label><input type="radio" name="appt" value="Abi Friday 15:30"> Friday at 3:30pm with {{% mention "abi" %}}</label><br>
@@ -79,7 +81,6 @@ button[type=submit]:hover {
     </p>
     <legend>Waiting list:</legend>
       <p>
-      If you are unable to attend any of the available times, you can join the waiting list.<br>
       Please be aware that we can not guarantee when further appointments will become available.<br>
       </p>
       <p>

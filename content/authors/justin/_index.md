@@ -6,7 +6,7 @@ title: Justin Clark
 superuser: true
 
 # Role/position
-role: Psychotherapist, supervisor, and Director of Therapy Nottingham
+role: Psychotherapist, Supervisor, and Director of Therapy Nottingham
 
 # Organizations/Affiliations
 organizations:

@@ -1,3 +1,4 @@
+---
 # Page title
 title: Frequently Asked Questions (FAQ)
 
@@ -15,6 +16,7 @@ type: book
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
+---
 
 ## What times are you open?
 - You can find out opening times over [on our contact page]]({{< relref "/#contact" >}})

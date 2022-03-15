@@ -19,7 +19,7 @@ weight: 1
 ---
 
 ## What times are you open?
-- You can find out opening times over [on our contact page]]({{< relref "/#contact" >}})
+- You can find out opening times [on our contact page]({{< relref "/#contact" >}})
 
 ## How much does therapy cost?
 - Our fees are [available here]({{< relref "/about/fees" >}})

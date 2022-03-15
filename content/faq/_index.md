@@ -27,7 +27,7 @@ weight: 1
 ## What times and days are available?
 - Our up to date availabiloty for individual psychotherapy [is available here, where you can book online]({{< relref "/booking" >}}).  For other services then please [contact us]({{< relref "/#contact" >}})
 
-## How often do I have to have appointmnets?
+## How often do I have to have appointments?
 - We usually work on a weekly basis, one appointment per week at the same time, on the same day.  For some clients, we may discuss with you the option of increasing this.
 
 ## Psychotherapy is expensive and/or I don't have the time.  Can I see you every two weeks instead?

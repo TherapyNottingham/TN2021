@@ -60,16 +60,22 @@
   weight = 5
 
 [[main]]
+  name = "FAQ"
+  parent = "About"
+  url = "/faq"
+  weight = 10
+
+[[main]]
   name = "Fees"
   parent = "About"
   url = "/about/fees"
   weight = 90
 
-[[main]]
-  name = "Covid-19"
-  parent = "About"
-  url = "/about/covid"
-  weight = 97
+# [[main]]
+#   name = "Covid-19"
+#   parent = "About"
+#   url = "/about/covid"
+#   weight = 97
   
 [[main]]
   name = "In a crisis?"

@@ -48,7 +48,7 @@ social:
   link: https://instagram.com/abigraves_psychotherapist
 - icon: calendar-alt
   icon-pack: far
-  link: https://www.therapynottingham.co.uk/booking
+  link: https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=33110
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

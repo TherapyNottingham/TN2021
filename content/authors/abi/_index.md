@@ -18,6 +18,8 @@ organizations:
   url: "tel:01157722132"
 - name: "Mobile: 07598 893 535"
   url: "tel:07598893535"
+- name: "Book an initial assessment"
+  url: "https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=33110"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist and supervisor, interested in personality, self, and identity.

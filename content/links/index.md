@@ -13,6 +13,7 @@ header:
   image: ""
 ---
 
-{{< icon name="window-maximise" pack="fas" >}} [website](http://www.therapynottingha.co.uk)
-{{< icon name="facebook-square" pack="fab" >}} [Facebook](https://facebook.com/therapynotts)
-{{< icon name="instagram-square" pack="fab" >}} [Instagram]  
+{{< icon name="window-restore" pack="far" >}} [Our website](http://www.therapynottingham.co.uk) <br>
+{{< icon name="calendar-chaeck" pack="far" >}} [Book an initial assessment](http://therapy-nottingham.selectandbook.com) <br>
+{{< icon name="facebook-square" pack="fab" >}} [Facebook](https://facebook.com/therapynotts) <br>
+{{< icon name="instagram-square" pack="fab" >}} [Instagram](https://instagram.com/therapynottingham) <br>

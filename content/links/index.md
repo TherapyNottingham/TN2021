@@ -13,6 +13,6 @@ header:
   image: ""
 ---
 
-- {{< icon name="window-maximise" pack="fas" >}} [website](http://www.therapynottingha.co.uk)
-- {{< icon name="facebook-square" pack="fas" >}} [Facebook](https://facebook.com/therapynotts)
-- {{< icon name="instagram-square" pack="fas" >}} [Instagram]  
+{{< icon name="window-maximise" pack="fas" >}} [website](http://www.therapynottingha.co.uk)
+{{< icon name="facebook-square" pack="fab" >}} [Facebook](https://facebook.com/therapynotts)
+{{< icon name="instagram-square" pack="fab" >}} [Instagram]  

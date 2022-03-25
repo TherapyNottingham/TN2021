@@ -33,7 +33,7 @@
   weight = 13
 
 [[main]]
-  name = "News"
+  name = "News and Articles"
   url = "post"
   weight = 20
 

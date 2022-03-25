@@ -10,6 +10,8 @@ subtitle:
 content:
   count: 5
   filters:
+    folders:
+      - post
     author: ""
     category: ""
     exclude_featured: false

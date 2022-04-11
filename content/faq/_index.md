@@ -31,4 +31,4 @@ weight: 1
 - We usually work on a weekly basis, one appointment per week at the same time, on the same day.  For some clients, we may discuss with you the option of increasing this.
 
 ## Psychotherapy is expensive and/or I don't have the time.  Can I see you every two weeks instead?
-- In short, no.  In our experience, meeting every two weeks has a disproportionately negative impact on the quality of the work, as well as how long it takes.  We are an Integrative psychotherapy service, and a large part of our approach emphasises, and relies on the relationship between the therapist and the client.  In order for this to be effective, we have to spend time being in the relationship.
+- In short, no.  In our experience, meeting every two weeks has a disproportionately negative impact on the quality of the work, as well as how long it takes.  We are an Integrative psychotherapy service, and a large part of our approach emphasises, and relies on the relationship between the therapist and the client.  In order for this to be effective, we have to spend time being _in_ the relationship.

@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: Therapy Nottingham # Website name
-baseurl: 'https://tn2021.netlify.app' # Website URL
+baseurl: 'https://www.therapynottingham.co.uk' # Website URL
 copyright: '© {year} Therapy Nottingham' # Footer text, e.g. '© {year} Me'
 
 ############################

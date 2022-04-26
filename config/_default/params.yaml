@@ -1,0 +1,108 @@
+# SITE SETUP
+# Guide: https://wowchemy.com/docs/getting-started/
+# Documentation: https://wowchemy.com/docs/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+
+appearance:
+  theme_day: tn_theme
+  theme_night: th_theme
+  font: TN_fonts
+  font_size: L
+
+# SEO
+
+marketing:
+  seo:
+    site_type: LocalBusiness
+    local_business_type: 'MedicalBusiness'
+    org_name: ''
+    description: 'An Integrative psychotherapy service in Nottingham.'
+    twitter: 'therapynotts'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+
+header:
+  navbar:
+    enable: true
+    align: l
+    show_logo: true
+    show_language: false
+    show_day_night: true
+    show_search: true
+    highlight_active_link: true
+
+# Site footer
+
+footer:
+  copyright:
+    notice: '© {year} Therapy Nottingham.'
+    license:
+      enable: true
+      allow_derivatives: false
+      share_alike: true
+      allow_commercial: false
+
+# Localization
+
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'
+  address_format: en-gb
+
+# Site features
+
+features:
+  syntax_highlighter:
+    enable: true
+    extra_languages:
+      - r
+      - latex
+  math:
+    enable: false
+  privacy_pack:
+    enable: true
+  repository:
+    url: 'https://github.com/TherapyNottingham/TN2021'
+    content_dir: content
+    branch: master
+  avatar:
+    gravatar: false
+    shape: circle
+  comment:
+    provider: ''
+    disqus:
+      shortname: ''
+      show_count: true
+    commento:
+      url: ''
+  search:
+    provider: wowchemy
+    algolia:
+      app_id: ''
+      api_key: ''
+      index_name: ''
+      show_logo: false
+  map:
+    provider: 'mapnik'
+    api_key: ''
+    zoom: 15
+
+# Extensions
+
+extensions:
+  cms:
+    branch: master
+    local_backend: false
+  isotope:
+    # Enable if you use the Portfolio widget or Publication filter
+    enable: true
+  academicons:
+    enable: false

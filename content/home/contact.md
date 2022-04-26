@@ -21,4 +21,40 @@ content:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
+ # Contact details (edit or remove options as required)
+  email: hello@therapynottingham.co.uk
+  phone: 0115 7722132
+  address:
+    street: Knight & Whitehall House, 4 Carlton Street
+    city: Nottingham
+    region: Notts
+    postcode: 'NG1 1NN'
+    country: United Kingdom
+    country_code: GB
+  coordinates:
+    latitude: '52.9532'
+    longitude: '-1.1439'
+  directions: Appointments only. Press buzzer for Office E, on the first floor, there is no lift available.
+
+  office_hours:
+    - 'Monday 10:00 to 20:00'
+    - 'Tueday 10:00 to 20:00'
+    - 'Wednesday 10:00 to 20:00'
+    - 'Thursday 10:00 to 20:00'
+    - 'Friday 10:00 to 20:00'
+    - 'Saturday Closed'
+    - 'Sunday Closed'
+  appointment_url: '/booking'
+  contact_links:
+    - icon: twitter
+      icon_pack: fab
+      name: DM us
+      link: 'https://twitter.com/TherapyNotts'
+     - icon: whatsapp
+      icon_pack: fab
+      name: Message us on WhatsApp
+      link: 'https://wa.me/447519821746'
+
+design:
+  columns: '2'
 ---

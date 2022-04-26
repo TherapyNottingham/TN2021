@@ -1,7 +1,4 @@
 ---
-advanced:
-  ? css_style
-  ? css_class
 widget: hero
 widget_id: Headline
 headless: true

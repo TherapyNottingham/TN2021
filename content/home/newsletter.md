@@ -12,7 +12,7 @@ headless: true
 # Order that this section appears on the page.
 weight: 99
 
-title:
+title: Subscribe
 subtitle:
 
 design:

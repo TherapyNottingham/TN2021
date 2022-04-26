@@ -7,7 +7,7 @@
 
 appearance:
   theme_day: tn_theme
-  theme_night: th_theme
+  theme_night: minimal
   font: TN_fonts
   font_size: L
 

@@ -1,22 +1,23 @@
 # Theme metadata
 name = "TN"
 
-# Is theme light or dark?
-light = true
+[light]
+  # Primary
+  primary = "#149f9d"
 
-# Primary
-primary = "#149f9d"
+  # Menu
+  menu_primary = "#eaece9"
+  menu_text = "#464c43"
+  menu_text_active = "#149f9d"
+  menu_title = "#149f9d"
 
-# Menu
-menu_primary = "#eaece9"
-menu_text = "#464c43"
-menu_text_active = "#149f9d"
-menu_title = "#149f9d"
-
-# Home sections
-home_section_odd = "#ffffff"
-home_section_even = "#eaece9"
+  # Home sections
+  home_section_odd = "#ffffff"
+  home_section_even = "#eaece9"
 
 [dark]
+  # Primary
+  primary = "#464c43"
+  
   link = "#bbdefb"
   link_hover = "#00c0c0"

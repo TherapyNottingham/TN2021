@@ -50,7 +50,7 @@ content:
       icon_pack: fab
       name: DM us
       link: 'https://twitter.com/TherapyNotts'
-     - icon: whatsapp
+    - icon: whatsapp
       icon_pack: fab
       name: Message us on WhatsApp
       link: 'https://wa.me/447519821746'

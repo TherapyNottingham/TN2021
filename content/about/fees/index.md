@@ -35,3 +35,12 @@ Please [contact us]({{< relref "/#contact" >}}) for further details of fees for 
 ## Fee changes
 
 Our fees are reviewed annually in April.
+
+## Payment
+You will receive an electronic invoice by email following your session that you can pay online.
+
+### Direct Debit
+You can set up a Direct Debit payment by clicking on the link included in any of your invoices, or by clicking [here](https://xero.gocardless.com/pay/co/GEN3490009456).
+
+### Your account and balance
+Your invoice emails from Therapy Nottingham contain a link to the online bill.  From your online bill, you can print a PDF, export a CSV, or create a free login and view your outstanding bills.

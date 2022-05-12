@@ -20,6 +20,7 @@ design:
     image_position: center
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
+    text_color_light: false
 
 hero_media: welcome.jpeg
 

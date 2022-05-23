@@ -29,7 +29,6 @@ design:
 ---
 ## For clients
 - [Individual Psychotherapy]({{< relref "/#individual_psychotherapy" >}})
-- Group Psychotherapy
 
 ## For professionals
 - Supervision

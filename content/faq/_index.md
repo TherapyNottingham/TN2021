@@ -35,4 +35,5 @@ weight: 1
 
 ## What happens in the first session?
 - The overall aim is to get to know each other.  Your therapist will want to have an understanding of how things are for you right now, and what it is you want help with.  And you will get to experience what it might be like to work with your therapist.  The details of this process will vary between individual psychotherapists, but here at Therapy Nottingham we will be sitting down and talking.  We do a lot of that.
+
 You can read Justin's post about [ what happens in the first session here]({{< relref "/post/2022-05-23-what-happens-in-the-first-session" >}}).

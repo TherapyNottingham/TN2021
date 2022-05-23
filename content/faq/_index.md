@@ -32,3 +32,7 @@ weight: 1
 
 ## Psychotherapy is expensive and/or I don't have the time.  Can I see you every two weeks instead?
 - In short, no.  In our experience, meeting every two weeks has a disproportionately negative impact on the quality of the work, as well as how long it takes.  We are an Integrative psychotherapy service, and a large part of our approach emphasises, and relies on the relationship between the therapist and the client.  In order for this to be effective, we have to spend time being _in_ the relationship.
+
+## What happens in the first session?
+- The overall aim is to get to know each other.  Your therapist will want to have an understanding of how things are for you right now, and what it is you want help with.  And you will get to experience what it might be like to work with your therapist.  The details of this process will vary between individual psychotherapists, but here at Therapy Nottingham we will be sitting down and talking.  We do a lot of that.
+You can read Justin's post about [ what happens in the first session here]({{< relref "/post/2022-05-23-what-happens-in-the-first-session" >}}).

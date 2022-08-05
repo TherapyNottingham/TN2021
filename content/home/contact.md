@@ -15,13 +15,14 @@ content:
   
   # Email form provider
   form:
-    provider: netlify
+    provider: 
     formspree:
       id:
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: true
  # Contact details (edit or remove options as required)
+  
   email: hello@therapynottingham.co.uk
   phone: 0115 7722132
   address:
@@ -58,3 +59,5 @@ content:
 design:
   columns: '2'
 ---
+
+Send us a message

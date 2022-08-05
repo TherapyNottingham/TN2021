@@ -16,9 +16,6 @@ header:
 ## For individual psychotherapy
 
 [You can browse, choose, and book from our available appointments here.](https://therapy-nottingham.selectandbook.com)
-{{% callout note %}}
-Please note that during the current building works at our new premises, some appointments will be at alternative locations.  This will be noted on all applicable available appointments.
-{{% /callout %}}
 
 ## For waiting list and general enquiries
   

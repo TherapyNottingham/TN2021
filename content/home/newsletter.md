@@ -94,5 +94,3 @@ advanced:
 </div>
 
 <!--End mc_embed_signup-->
-
-To keep up to date with events and updates [subscribe to our mailing list](https://pages.therapynottingham.co.uk/news-and-updates/signup).

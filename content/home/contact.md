@@ -39,7 +39,7 @@ content:
 
   office_hours:
     - 'Monday 10:00 to 20:00'
-    - 'Tueday 10:00 to 20:00'
+    - 'Tuesday 10:00 to 20:00'
     - 'Wednesday 10:00 to 20:00'
     - 'Thursday 10:00 to 20:00'
     - 'Friday 10:00 to 20:00'
@@ -60,4 +60,4 @@ design:
   columns: '2'
 ---
 
-[Click here to send us a message online] (https://us10.list-manage.com/contact-form?u=d64b1f151f0dee2ea7b9863e5&form_id=a64c7dbd3f2f297a325771e9a49a27ec)
+[Click here to send us a message online](https://us10.list-manage.com/contact-form?u=d64b1f151f0dee2ea7b9863e5&form_id=a64c7dbd3f2f297a325771e9a49a27ec)

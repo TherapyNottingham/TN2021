@@ -27,7 +27,7 @@ bio: Psychotherapist and supervisor, interested in personality, self, and identi
 interests:
 - Self and identity
 - Personality development and 'disorder'
-- Promoting integrative approaches
+- Promoting Integrative approaches
 
 education:
   courses:

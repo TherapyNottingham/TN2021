@@ -25,7 +25,7 @@ weight: 1
 - Our fees are [available here]({{< relref "/about/fees" >}})
 
 ## What times and days are available?
-- Our up to date availabiloty for individual psychotherapy [is available here, where you can book online]({{< relref "/booking" >}}).  For other services then please [contact us]({{< relref "/#contact" >}})
+- Our up to date availability for individual psychotherapy [is available here, where you can book online]({{< relref "/booking" >}}).  For other services then please [contact us]({{< relref "/#contact" >}})
 
 ## How often do I have to have appointments?
 - We usually work on a weekly basis, one appointment per week at the same time, on the same day.  For some clients, we may discuss with you the option of increasing this.

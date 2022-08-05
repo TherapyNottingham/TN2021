@@ -26,10 +26,10 @@ interests:
 
 education:
   courses:
-  - course: Qualified and accredited integrative psychotherapists
+  - course: Qualified and accredited Integrative psychotherapists
     institution: e.g. UKCP, BACP etc.
     year: 
-  - course: working with an integrative approach
+  - course: working with an Integrative approach
     institution:
     year: 
 #  - course: BSc in Artificial Intelligence

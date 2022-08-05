@@ -44,13 +44,13 @@ As the Therapy Nottingham service is preparing to move into our new premises in 
 
 ## What led you to become a psychotherapist?
 
-I have been working as a eurythmy (movement) therapist for many years, predominately addressing constitutional issues through creative gesturing.  Although I have always found this to be an effective therapy, I became increasingly aware of how movement can trigger and stimulate emotional and unconscious processes for my clients.  Wanting to learn more and explore this and my own unconscious emotional experiences led me to train as an integrative psychotherapist.
+I have been working as a eurythmy (movement) therapist for many years, predominately addressing constitutional issues through creative gesturing.  Although I have always found this to be an effective therapy, I became increasingly aware of how movement can trigger and stimulate emotional and unconscious processes for my clients.  Wanting to learn more and explore this and my own unconscious emotional experiences led me to train as an Integrative psychotherapist.
 
 ## What is your ideal pet?
 
 I am a 100% cat person.
 
-![A picture od Andréa as a child in New York](andrea-child.jpeg "Andréa \(left\), in New York, 1960")
+![A picture of Andréa as a child in New York](andrea-child.jpeg "Andréa \(left\), in New York, 1960")
 
 ## What did you want to do when growing up?
 
@@ -63,7 +63,7 @@ I appreciate working with my fellow psychotherapy colleagues in peer work and su
 
 ## How do you like to spend your time outside of work?
 
-I am an avid reader and believe there is a novel in me yet!  I am also a committed walker, which inspires my creative side.  I have always enjoyed artistic eurythmy movement with colleagues.  Outside of this, working on watercolour painting and pursuing my ongoing craft projects is a great love of mine.  Playing the piano gives me great pleasure and a reminder that daily practising is essential!  I am also a regular visitor to art galleries and noticed how much I missed these visits throughout the pandemic.  
+I am an avid reader and believe there is a novel in me yet!  I am also a committed walker, which inspires my creative side.  I have always enjoyed artistic eurythmy movement with colleagues.  Outside of this, working on watercolour painting and pursuing my ongoing craft projects is a great love of mine.  Playing the piano gives me great pleasure and a reminder that daily practicing is essential!  I am also a regular visitor to art galleries and noticed how much I missed these visits throughout the pandemic.  
 
 ![A picture of Andréa walking in the countryside](andrea-walking.jpeg "Andréa walking int he countryside")
 

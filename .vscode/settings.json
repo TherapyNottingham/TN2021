@@ -17,5 +17,14 @@
                 ]
             }
         }
+    ],
+    "spellright.language": [
+        "en"
+    ],
+    "spellright.documentTypes": [
+        "markdown",
+        "latex",
+        "plaintext",
+        "git-commit"
     ]
 }

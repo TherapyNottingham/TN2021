@@ -14,7 +14,7 @@ h2 {
 h3 {
   color: #287e79;
 }
-.navbar-brand .brandingLogo{
+.navbar-brand {
   img {
     border: none
   }
@@ -24,6 +24,14 @@ h3 {
     border: none
   }
 }
+
+p.brandingLogo
+{
+  img {
+    border: none
+  }
+}
+
 img {
   border: 3px solid #149f9d;
 }

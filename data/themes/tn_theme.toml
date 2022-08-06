@@ -2,7 +2,7 @@
 name = "TN"
 
 [light]
-  # Primary
+  # Primary colour
   primary = "#149f9d"
 
   # Menu
@@ -11,13 +11,30 @@ name = "TN"
   menu_text_active = "#149f9d"
   menu_title = "#149f9d"
 
-  # Home sections
+  # Links
+  link = "#149f9d"
+  link_hover = "#00c0c0"
+  
+  # Backgrounds
+  background = "#eaece9"
   home_section_odd = "#ffffff"
   home_section_even = "#eaece9"
 
 [dark]
-  # Primary
+  # Primary colour
   primary = "#464c43"
   
-  link = "#bbdefb"
+  # Menu
+  menu_primary = "#464c43"
+  menu_text = "#eaece9"
+  menu_text_active = "#149f9d"
+  menu_title = "#149f9d"
+  
+  # Links
+  link = "#eaece9"
   link_hover = "#00c0c0"
+
+  # Backgrounds
+  background = "#464c43"
+  home_section_odd = "#000000"
+  home_section_even = "#464c43"

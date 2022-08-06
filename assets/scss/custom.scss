@@ -1,8 +1,12 @@
-body {
-  color: #b464c43;
+body.light {
+  color: #464c43;
 }
 
-h1 {
+body.dark {
+  color: #EAECE9;
+}
+
+h1 .hero-title {
   color: #149f9d;
 }
 

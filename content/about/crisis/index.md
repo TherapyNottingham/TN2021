@@ -33,7 +33,8 @@ If you can keep yourself safe for a short while, but you still need urgent advic
 
 - contact NHS [111](tel:111) if you live in England
 - contact NHS [111](tel:111) or NHS Direct ([0845 46 47](tel:08454647)) if you live in Wales
-- contact your GP surgery and ask for an emergency appointment. Many GPs are now offering these remotely because of coronavirus.
+- contact your GP surgery and ask for an emergency appointment. Some GPs are now offering these remotely.
+- contact your local mental health team.  For Nottingham and Nottinghamshire, you can [find their details here](https://www.nottinghamshirehealthcare.nhs.uk/crht).
 
 # Do you need some urgent coping tools?
 

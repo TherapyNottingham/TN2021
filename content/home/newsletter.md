@@ -10,7 +10,7 @@ active: true
 headless: true
 
 # Order that this section appears on the page.
-weight: 99
+weight: 90
 
 title: Subscribe
 subtitle:

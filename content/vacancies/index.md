@@ -22,4 +22,4 @@ As the Therapy Nottingham service expands, we are looking for more people to joi
 
 As an associate psychotherapist you will be working with clients in-person at the Therapy Nottingham offices.  For an informal conversation about this role please [contact us]({{< relref "/#contact" >}}).
 - earn from £38 per session
-- {{< icon name="file-pdf" pack="fab" >}}
+- {{< icon name="fa-file-pdf" pack="fab" >}}

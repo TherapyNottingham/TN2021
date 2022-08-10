@@ -1,4 +1,4 @@
-body.light {
+body.light, .home-section.light {
   color: #464c43;
 }
 
@@ -6,10 +6,9 @@ body.dark {
   color: #EAECE9;
 }
 
-.home-section.light h1 {
+.home-section.light h1, h1.hero-title {
   color: #149f9d;
 }
-
 
 h2 {
   color: #1e8f8b;

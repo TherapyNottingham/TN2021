@@ -86,8 +86,7 @@ We are not currently recruiting, but sign up to our newsletter for updates.
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
 
-/*
-
+<!--
 ## Join us
 
 As the Therapy Nottingham service expands, we are looking for more people to join our team.
@@ -98,4 +97,4 @@ As an associate psychotherapist you will be working with clients in-person at th
 - earn from £38 per session
 - {{< icon name="file-pdf" pack="fas" >}}
 
-*/
+-->

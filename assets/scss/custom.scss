@@ -6,16 +6,16 @@ body.dark {
   color: #EAECE9;
 }
 
-h1, .home-section.light h1, h1.hero-title {
+h1, .home-section.light h1, h1.hero-title, .dark h1 {
   color: #149f9d;
 }
 
-h2 {
+h2, .dark h2 {
   color: #1e8f8b;
   border-bottom: 1px solid #149f9d;
 }
 
-h3 {
+h3, .dark h3 {
   color: #287e79;
 }
 .navbar-brand {

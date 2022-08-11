@@ -76,7 +76,13 @@
 #   parent = "About"
 #   url = "/about/covid"
 #   weight = 97
-  
+
+[[main]]
+  name = "Vacancies"
+  parent = "About"
+  url = "vacancies"
+  weight = 95
+
 [[main]]
   name = "In a crisis?"
   parent = "About"

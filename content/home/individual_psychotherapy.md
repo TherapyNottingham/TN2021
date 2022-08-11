@@ -36,3 +36,4 @@ cta_note:
 ---
 
 Psychotherapy can help with a wide range of problems and difficulties, from those that seem to have been there forever, to those which have suddenly become apparent.
+{style="color: #464c43"}

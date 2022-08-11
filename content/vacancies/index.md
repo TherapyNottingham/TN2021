@@ -15,6 +15,21 @@ header:
 ---
 
 We are not currently recruiting, but sign up to our newsletter for updates.
+
+<!--
+## Join us
+
+As the Therapy Nottingham service expands, we are looking for more people to join our team.
+<!-- Files need to be in static/uploads/>
+## Associate Psychotherapist
+
+As an associate psychotherapist you will be working with clients in-person at the Therapy Nottingham offices.  For an informal conversation about this role please [contact us]({{< relref "/#contact" >}}).
+- {{% staticref "uploads/TN_Associate_Information.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}Associate Psychotherapist Information and Benefits{{% /staticref %}}
+- {{% staticref "uploads/TN_Associate_Application.docx" "newtab" %}}{{< icon name="file-word" pack="fas" >}}Associate Psychotherapist Application Form (Word format){{% /staticref %}}
+- {{% staticref "uploads/TN_Associate_Application.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}Associate Psychotherapist Application Form (PDF format){{% /staticref %}}
+
+-->
+
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">
 <style type="text/css">
@@ -85,16 +100,3 @@ We are not currently recruiting, but sign up to our newsletter for updates.
 </div>
 <script type='text/javascript' src='//s3.amazonaws.com/downloads.mailchimp.com/js/mc-validate.js'></script><script type='text/javascript'>(function($) {window.fnames = new Array(); window.ftypes = new Array();fnames[0]='EMAIL';ftypes[0]='email';fnames[1]='FNAME';ftypes[1]='text';fnames[2]='LNAME';ftypes[2]='text';fnames[3]='MMERGE3';ftypes[3]='phone';}(jQuery));var $mcj = jQuery.noConflict(true);</script>
 <!--End mc_embed_signup-->
-
-<!--
-## Join us
-
-As the Therapy Nottingham service expands, we are looking for more people to join our team.
-
-## Associate Psychotherapist
-
-As an associate psychotherapist you will be working with clients in-person at the Therapy Nottingham offices.  For an informal conversation about this role please [contact us]({{< relref "/#contact" >}}).
-- earn from £38 per session
-- {{< icon name="file-pdf" pack="fas" >}}
-
--->

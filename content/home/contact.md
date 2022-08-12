@@ -26,16 +26,16 @@ content:
   email: hello@therapynottingham.co.uk
   phone: 0115 7722132
   address:
-    street: Knight & Whitehall House, 4 Carlton Street
+    street: 8 Eldon Chambers
     city: Nottingham
     region: Notts
-    postcode: 'NG1 1NN'
+    postcode: 'NG1 2NS'
     country: United Kingdom
     country_code: GB
   coordinates:
-    latitude: '52.9532'
-    longitude: '-1.1439'
-  directions: Appointments only. Press buzzer for Office E, on the first floor, there is no lift available.
+    latitude: '52.9521'
+    longitude: '-1.1504'
+  directions: Appointments only.
 
   office_hours:
     - 'Monday 10:00 to 20:00'

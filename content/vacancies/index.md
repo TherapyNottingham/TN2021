@@ -29,7 +29,6 @@ As an associate psychotherapist you will be working with clients in-person at th
 - {{% staticref "uploads/TN_Associate_Application.docx" "newtab" %}}{{< icon name="file-word" pack="fas" >}}Associate Psychotherapist Application Form (Word format){{% /staticref %}}
 - {{% staticref "uploads/TN_Associate_Application.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}Associate Psychotherapist Application Form (PDF format){{% /staticref %}}
 
--->
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">

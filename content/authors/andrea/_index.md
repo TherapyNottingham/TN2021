@@ -78,3 +78,4 @@ Andrea is an Integrative psychotherapist, working within a humanistic, relationa
 
 Alongside her work as a psychotherapist, Andrea manages a therapy department in a college for Special Need adults.
 
+{{< figure src="UKCP.jpg" caption="UKCP" numbered="false" >}}

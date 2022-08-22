@@ -18,7 +18,7 @@ design:
     # Use a fun parallax-like fixed background effect on desktop? true/false
     image_parallax: true
 
-hero_media: welcome.jpeg
+hero_media: room5.jpeg
 
 cta:
   url: '/booking'

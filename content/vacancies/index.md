@@ -14,13 +14,14 @@ header:
   image: ""
 ---
 
+<!-->
 We are not currently recruiting, but sign up to our newsletter for updates.
+-->
 
-<!--
 ## Join us
 
 As the Therapy Nottingham service expands, we are looking for more people to join our team.
-<!-- Files need to be in static/uploads/>
+<!-- Files need to be in static/uploads/ -->
 ## Associate Psychotherapist
 
 As an associate psychotherapist you will be working with clients in-person at the Therapy Nottingham offices.  For an informal conversation about this role please [contact us]({{< relref "/#contact" >}}).

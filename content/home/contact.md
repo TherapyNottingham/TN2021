@@ -54,7 +54,7 @@ content:
     - icon: whatsapp
       icon_pack: fab
       name: Message us on WhatsApp
-      link: 'https://wa.me/447519821746'
+      link: 'https://wa.me/441157722132'
 
 design:
   columns: '2'

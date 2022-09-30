@@ -45,6 +45,7 @@ content:
     - 'Friday 10:00 to 20:00'
     - 'Saturday Closed'
     - 'Sunday Closed'
+    - 'Bank Holidays Closed'
   appointment_url: '/booking'
   contact_links:
     - icon: twitter

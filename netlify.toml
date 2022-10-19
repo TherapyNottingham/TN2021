@@ -32,7 +32,8 @@
   #  pwa = 0.4
 
   [[plugins.inputs.audits]]
-    url = "https://www.therapynottingham.co.uk"
+    #url = "https://www.therapynottingham.co.uk"
+    #url = "https://therapynottingham.netlify.app"
 
   # optional, deploy the lighthouse report to a path under your site
   [plugins.inputs]

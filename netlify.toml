@@ -1,11 +1,10 @@
 [build]
-  command = "env WC_POST_CSS="true" hugo --gc --minify -b $URL"
+  command = "hugo --gc --minify -b $URL"
   publish = "public"
 
 [build.environment]
   HUGO_VERSION = "0.97.3"
   HUGO_ENABLEGITINFO = "false"
-  WC_POST_CSS = "true"
 
 [context.production.environment]
   HUGO_ENV = "production"

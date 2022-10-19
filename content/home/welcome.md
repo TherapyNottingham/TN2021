@@ -19,7 +19,7 @@ design:
     image_parallax: true
     text_color_light: false
 
-hero_media: welcome.jpeg
+hero_media: welcome.webp
 
 cta:
   url: '/booking'

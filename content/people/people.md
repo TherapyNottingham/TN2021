@@ -19,6 +19,7 @@ content:
   - Director
   - Psychotherapists
   - Supervisors
+  - Join Us
 design:
   show_interests: false
   show_role: true

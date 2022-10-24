@@ -106,3 +106,8 @@ extensions:
     enable: true
   academicons:
     enable: false
+
+security:
+  csp:
+    policy: default-src 'none'; form-action 'none'; frame-ancestors 'none'; report-uri https://therapynottingham.report-uri.com/r/d/csp/wizard
+    report_only: true

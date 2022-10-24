@@ -68,4 +68,4 @@ user_groups:
 - Join Us
 ---
 
-We are always happy to hear from qualified psychotherapists who are interested in joining our team of Associate Therapists. If you would like to know more about working with Therapy Nottingham then [contact us]({{< relref "/#contact" >}}).
+We are always happy to hear from qualified psychotherapists who are interested in joining our team of Associate Therapists. If you would like to know more about working with Therapy Nottingham then you can see all of our [current vacancies here]({{< relref "/vacancies" >}}) or [contact us]({{< relref "/#contact" >}}).

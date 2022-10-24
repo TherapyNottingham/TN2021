@@ -74,6 +74,6 @@ user_groups:
 
 Haley is a Humanistic and Integrative psychotherapist, who works with a relational and developmental approach.
 
-Before Haley became a psychotherapist, she worked for many years supporting survivors of domestic abuse and trauma, and has worked with clients across diverse cultural backgrounds.
+Before qualifying as a psychotherapist, she worked for many years supporting survivors of domestic abuse and trauma, and has worked with clients across diverse cultural backgrounds.
 
 Haley is passionate about working with clients wherever they are at in their life, helping them make sense of their thoughts, feelings and experiences they bring to therapy.  She believes psychotherapy can increase your self-awareness, enhancing your emotional and physical well-being reaching a deeper understanding of yourself.  Beyond this, therapy supports healthy and fulfilling relationships - with others and importantly, with yourself.

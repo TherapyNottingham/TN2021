@@ -1,4 +1,11 @@
 ---
+_build:
+  render: never
+cascade:
+  _build:
+    render: never
+    list: never
+
 # Display name
 title: Roisin Bullock
 

@@ -1,11 +1,4 @@
 ---
-_build:
-  render: never
-cascade:
-  _build:
-    render: never
-    list: never
-
 # Display name
 title: Roisin Bullock
 
@@ -77,7 +70,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Psychotherapists
+#- Psychotherapists
 ---
 
 Roisin is an integrative psychotherapist, who works within a humanistic, relational, and developmental framework. 

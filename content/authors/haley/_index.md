@@ -19,7 +19,7 @@ organizations:
 - name: "Mobile: 0777 276 1693"
   url: "tel:07772761693"
 - name: "Book an initial assessment"
-  url: "https://therapy-nottingham.selectandbook.com"
+  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?resource=38925"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist interested in relational trauma, attachment, and healing.
@@ -47,7 +47,7 @@ social:
   link: 'tel:07772761693'
 - icon: calendar-alt
   icon-pack: far
-  link: https://therapy-nottingham.selectandbook.com
+  link: https://therapy-nottingham.selectandbook.com/timetable.aspx?resource=38925
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

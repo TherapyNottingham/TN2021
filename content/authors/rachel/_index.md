@@ -75,5 +75,4 @@ user_groups:
 ---
 Rachel is an integrative Psychotherapist who works within a Humanistic, 
 developmental, and relational framework.
-
-Prior to qualifying as a psychotherapist, Rachel worked for over 10 years as a Hypnotherapist in private practice. Rachel has particular interest and experience in supporting clients through anxiety, substance addictions, phobias, and complex traumas including Post-Traumatic Stress Disorder (PTSD).  She believes in the value of the therapeutic relationship as a way towards personal growth and recovery.
+Before qualifying as a psychotherapist, Rachel worked for over 10 years as a Hypnotherapist in private practice. Rachel has particular interest and experience in supporting clients through anxiety, substance addictions, phobias, and complex traumas including Post-Traumatic Stress Disorder (PTSD).  She believes in the value of the therapeutic relationship as a way towards personal growth and recovery.

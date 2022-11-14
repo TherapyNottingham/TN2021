@@ -60,6 +60,12 @@
   weight = 5
 
 [[main]]
+  name = "Integrative Psychotherapy"
+  parent = "About"
+  url = "/about/integrative"
+  weight = 7
+
+[[main]]
   name = "FAQ"
   parent = "About"
   url = "/faq"

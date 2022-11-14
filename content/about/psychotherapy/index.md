@@ -22,7 +22,13 @@ People come to therapy for all kinds of reasons. Psychotherapy can help manage a
 
 Psychotherapy comes under the broad heading of ‘talking therapies’.  By talking about and exploring the things that you have experienced, how you are feeling, and the thoughts you are having, you are then able to make positive changes.  It’s not possible for us to go back in time and change what has already happened, but it is possible to reduce or remove the negative impact that those things may be still be having on you now.
 
-### Examples of the kinds of things people come to therapy for include:
+### Our Integrative approach
+
+You can read more about [our Integrative approach to psychotherapy here]({{< relref "/about/integrative" >}}).
+
+### Problems and difficulties that clients want help with
+
+Examples of the kinds of things people come to therapy for include:
 
 - Stress and anxiety
 - Anger
@@ -33,7 +39,9 @@ Psychotherapy comes under the broad heading of ‘talking therapies’.  By talk
 - Issues relating to sexuality and identity
 - Knowing that things ‘just don’t feel right’
 
-### People also choose to come to therapy having experienced significant or difficult events, for example:
+### Life events ad experiences
+
+People also choose to come to therapy having experienced significant or difficult events, for example:
 
 - Bereavement
 - Divorce or separation

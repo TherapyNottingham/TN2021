@@ -19,7 +19,7 @@ organizations:
 - name: "Mobile: 07833 102 300"
   url: "tel:07833102300"
 - name: "Book an initial assessment"
-  url: "https://therapy-nottingham.selectandbook.com"
+  url: "https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=39250"
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist interested in anxiety, addiction, and complex trauma.
@@ -49,7 +49,7 @@ social:
   link: 'tel:07833102300'
 - icon: calendar-alt
   icon-pack: far
-  link: https://therapy-nottingham.selectandbook.com
+  link: https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=39250
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -71,7 +71,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#- Psychotherapists
+- Psychotherapists
 ---
 Rachel is an integrative Psychotherapist who works within a Humanistic, 
 developmental, and relational framework.

@@ -18,8 +18,12 @@ organizations:
   url: "tel:01157722132"
 - name: "Mobile: 07833 102 300"
   url: "tel:07833102300"
-- name: "Book an initial assessment"
-  url: "https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=39250"
+- name: "––––––––––"
+  url: ""
+- name: "Book with us now"
+  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=49475"
+- name: "––––––––––"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist interested in anxiety, addiction, and complex trauma.

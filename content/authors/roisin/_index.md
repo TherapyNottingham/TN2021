@@ -18,8 +18,12 @@ organizations:
   url: "tel:01157722132"
 - name: "Mobile: 07936 444 898"
   url: "tel:07936444898"
-- name: "Book an initial assessment"
-  url: "https://therapy-nottingham.selectandbook.com"
+- name: "––––––––––"
+  url: ""
+- name: "Book with us now"
+  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=49475"
+- name: "––––––––––"
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist interested in childhood and developmental trauma, and chronic illness.

@@ -6,7 +6,7 @@ title: Antoinette Long
 superuser: false
 
 # Role/position
-role: Psychotherapist
+role: Psychotherapist and Supervisor
 
 # Organizations/Affiliations
 organizations:
@@ -36,10 +36,10 @@ education:
   - course: Diploma in Clinical Supervision
     institution: Sherwood Psychotherapy Training Institute
     year: 2022
- - course: MA Humanistic Person-Centred Psychotherapy
+  - course: MA Humanistic Person-Centred Psychotherapy
     institution: Sherwood Psychotherapy Training Institute / Birmingham University
     year: 2009
- - course: BSc Psychology
+  - course: BSc Psychology
     institution: Nottingham Trent University
     year: 2009
 
@@ -82,5 +82,6 @@ user_groups:
 - Psychotherapists
 - Supervisors
 ---
+
 Antoinette offers both psychotherapy and supervision and has worked as a qualified therapist since 2009 within a variety of settings including third sector, further education and Child and Adolescent Mental Health services (CAMHS).
 Aiming to work collaboratively with clients to explore all aspects of their experience, Antoinette supports clients reaching towards new understandings. Each therapeutic process is as unique as each individual.

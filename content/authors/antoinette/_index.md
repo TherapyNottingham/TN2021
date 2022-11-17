@@ -79,8 +79,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Psychotherapists
-- Supervisors
+#- Psychotherapists
+#- Supervisors
 ---
 
 Antoinette offers both psychotherapy and supervision and has worked as a qualified therapist since 2009 within a variety of settings including third sector, further education and Child and Adolescent Mental Health services (CAMHS).

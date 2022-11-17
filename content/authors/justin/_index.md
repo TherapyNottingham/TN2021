@@ -18,8 +18,12 @@ organizations:
   url: "tel:01157722132"
 - name: "Mobile: 07519 821 746"
   url: "tel:07519821746"
-- name: "Book an initial assessment"
-  url: "https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=9969"
+- name: "––––––––––"
+url: ""
+- name: "Book with us now"
+  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=143443"
+- name: "––––––––––"
+url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist and supervisor, interested in personality, self, and identity.
@@ -52,12 +56,12 @@ social:
 - icon: mobile-alt
   icon_pack: fas
   link: 'tel:07519821746'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/justinclarkxyz
+#- icon: twitter
+#  icon_pack: fab
+#  link: https://twitter.com/justinclarkxyz
 - icon: calendar-alt
   icon-pack: far
-  link: https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=9969
+  link: https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=143443
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

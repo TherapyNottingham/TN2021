@@ -19,11 +19,11 @@ organizations:
 - name: "Mobile: 07519 821 746"
   url: "tel:07519821746"
 - name: "––––––––––"
-url: ""
+  url: ""
 - name: "Book with us now"
   url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=143443"
 - name: "––––––––––"
-url: ""
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: Psychotherapist and supervisor, interested in personality, self, and identity.

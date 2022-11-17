@@ -46,11 +46,11 @@ img {
   
   .TN-footer-flex-container {
     display: flex;
-    background-color: DodgerBlue;
+    justify-content: space-between;
+    align-items: flex-start;
   }
   
   .TN-footer-flex-container > div {
-    background-color: #f1f1f1;
     margin: 10px;
     padding: 20px;
     font-size: 30px;

@@ -26,11 +26,11 @@
   url = "#individual_psychotherapy"
   weight = 5
  
-[[main]]
-  name = "Forms"
-  parent = "Services"
-  url = "/forms"
-  weight = 13
+#[[main]]
+#  name = "Free guide to finding a good therapist"
+#  parent = "Services"
+#  url = "/free-guide"
+#  weight = 99
 
 [[main]]
   name = "News and Articles"

@@ -48,15 +48,10 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-direction: row;
+    flex-wrap: wrap;
     img {
       border: none
     }
-}
-@media (max-width: 800px) {
-  .TN-footer-flex-container {
-    flex-direction: column;
-  }
 }
 
 .TN-footer-flex-container > div {

@@ -48,12 +48,17 @@ img {
     display: flex;
     justify-content: space-between;
     align-items: flex-start;
-    flex-direction: column;
+    flex-direction: row;
     img {
       border: none
     }
 }
-  
+@media (max-width: 800px) {
+  .TN-footer-flex-container {
+    flex-direction: column;
+  }
+}
+
 .TN-footer-flex-container > div {
     margin: 10px;
     padding: 20px;

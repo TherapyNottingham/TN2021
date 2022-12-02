@@ -21,7 +21,7 @@ organizations:
 - name: "––––––––––"
   url: ""
 - name: "Book with us now"
-  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=49475"
+  url: "https://therapy-nottingham.selectandbook.com"
 - name: "––––––––––"
   url: ""
 
@@ -74,7 +74,7 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#- Psychotherapists
+- Psychotherapists
 ---
 
 Roisin is an integrative psychotherapist, who works within a humanistic, relational, and developmental framework. 

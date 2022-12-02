@@ -21,7 +21,7 @@ organizations:
 - name: "––––––––––"
   url: ""
 - name: "Book with us now"
-  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=49475"
+  url: "https://therapy-nottingham.selectandbook.com"
 - name: "––––––––––"
   url: ""
 
@@ -54,7 +54,7 @@ social:
   link: https://instagram.com/abigraves_psychotherapist
 - icon: calendar-alt
   icon-pack: far
-  link: https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=33110
+  link: https://therapy-nottingham.selectandbook.com
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

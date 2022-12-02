@@ -21,7 +21,7 @@ organizations:
 - name: "––––––––––"
   url: ""
 - name: "Book with us now"
-  url: "https://therapy-nottingham.selectandbook.com/timetable.aspx?appid=49475"
+  url: "https://therapy-nottingham.selectandbook.com"
 - name: "––––––––––"
   url: ""
 
@@ -57,7 +57,7 @@ social:
   link: 'tel:07946254819'
 - icon: calendar-alt
   icon-pack: far
-  link: https://therapy-nottingham.selectandbook.com/timetable.aspx
+  link: https://therapy-nottingham.selectandbook.com
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
@@ -79,8 +79,8 @@ highlight_name: false
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-#- Psychotherapists
-#- Supervisors
+- Psychotherapists
+- Supervisors
 ---
 
 Antoinette offers both psychotherapy and supervision and has worked as a qualified therapist since 2009 within a variety of settings including third sector, further education and Child and Adolescent Mental Health services (CAMHS).

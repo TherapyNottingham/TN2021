@@ -19,7 +19,7 @@ design:
     image_parallax: true
     text_color_light: false
 
-hero_media: welcome.webp
+hero_media: 8_Eldon_Chambers.webp
 
 cta:
   url: '/booking'

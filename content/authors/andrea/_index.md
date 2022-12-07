@@ -16,8 +16,8 @@ organizations:
   url: "mailto:andrea@therapynottingham.co.uk"
 - name: "Office: 0115 7722132"
   url: "tel:01157722132"
-- name: "Mobile: 07762 631 827"
-  url: "tel:07762631827"
+- name: "Mobile: 07355 983 419"
+  url: "tel:07355983419"
 - name: "––––––––––"
   url: ""
 - name: "Book with us now"
@@ -50,7 +50,7 @@ social:
   link: 'mailto:andrea@therapynottingham.co.uk'
 - icon: mobile-alt
   icon_pack: fas
-  link: 'tel:07762631827'
+  link: 'tel:07355983419'
 - icon: calendar-alt
   icon-pack: far
   link: https://therapy-nottingham.selectandbook.com
@@ -80,6 +80,6 @@ user_groups:
 
 Andrea is an Integrative psychotherapist, working within a humanistic, relational, and developmental framework.  Andrea has a wide range of experience working with people of all ages who need support or are experiencing difficulty.  She has worked as a constitutional movement therapist since 1984 specialising in childhood developmental disorders in the NHS, private practice and educational settings both at home and abroad and gained a Masters in this subject in 2014. 
 
-Alongside her work as a psychotherapist, Andrea manages a therapy department in a college for Special Need adults.
+Alongside her work as a psychotherapist, Andrea manages a therapy department in a college for Special Needs adults.
 
 {{< figure src="UKCP.jpg" caption="UKCP Accredited" numbered="false" >}}

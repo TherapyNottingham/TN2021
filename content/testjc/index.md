@@ -13,7 +13,4 @@ header:
   image: ""
 ---
 
-<script>
-function one() {
-}
-</script>
+<script>source = 'one.js'</script>

@@ -14,6 +14,9 @@ summary: Frequently asked questions about psychotherapy and the Therapy Nottingh
 # Book page type (do not modify).
 type: book
 
+# Show a link to the next article in the series?
+pager: true
+
 # Position of this page in the menu. Remove this option to sort alphabetically.
 weight: 1
 ---

@@ -18,7 +18,7 @@ type: book
 pager: true
 
 # Position of this page in the menu. Remove this option to sort alphabetically.
-weight: 5
+weight: 10
 ---
 
 ## How do I pay for my appointments

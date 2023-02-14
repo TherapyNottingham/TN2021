@@ -42,15 +42,18 @@ img {
 }
 
 #TableOfContents {
-  border-left: 1px solid #464c43
+  border-left: 1px solid #464c43;
+  border-right: 1px solid #464c43;
   }
 
 #TableOfContents .nav-link .dark {
   border-top: 1px solid #EAECE9
+  border-bottom: 1px solid #EAECE9
   }
 
 #TableOfContents .nav-link {
-  border-top: 1px solid #464c43
+  border-top: 1px solid #464c43;
+  border-bottom: 1px solid #464c43;
   }
   
 .TN-footer-flex-container {

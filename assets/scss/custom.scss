@@ -40,8 +40,12 @@ img {
   border: 3px solid #149f9d;
   border-radius: 10px;
 }
-#TableOfContents .nav-link {
+#TableOfContents .nav-link .dark {
   border-top: dotted #EAECE9
+  }
+
+#TableOfContents .nav-link {
+  border-top: dotted #464c43
   }
   
 .TN-footer-flex-container {

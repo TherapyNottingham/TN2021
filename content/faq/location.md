@@ -3,7 +3,7 @@
 title: Frequently Asked Questions about our location
 
 # Title for the menu link if you wish to use a shorter link title, otherwise remove this option.
-#linktitle: Course
+linktitle: Location and directions
 
 # Page summary for search engines.
 summary: Frequently asked questions about our location

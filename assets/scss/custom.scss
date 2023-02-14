@@ -40,8 +40,20 @@ img {
   border: 3px solid #149f9d;
   border-radius: 10px;
 }
+
+#TableOfContents {
+  border-left: none;
+  border-right: none;
+  }
+
+#TableOfContents .nav-link .dark {
+  border-top: 1px solid #EAECE9;
+  border-bottom: 1px solid #EAECE9;
+  }
+
 #TableOfContents .nav-link {
-  border-top: dotted #EAECE9
+  border-top: 1px solid #464c43;
+  border-bottom: 1px solid #464c43;
   }
   
 .TN-footer-flex-container {

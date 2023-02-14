@@ -23,12 +23,14 @@ weight: 20
 
 ## Where is the Therapy Nottingham service?
 - Our address is: 8 Eldon Chambers, Nottingham, NG1 2NS
-- Eldon Chambers is a small, quiet courtyard off of Wheeler Gate.  Walk through the large stone archway between Cafe Nero and Specsavers.  We are the second building on the left.
+- Eldon Chambers is a small, quiet courtyard off of Wheeler Gate.
+- Walk through the large stone archway between Cafe Nero and Specsavers.  We are the second building on the left.
 
 ## Getting to us - walking
-- Eldon Chambers is approximately 200m from the Market Square in Nottingham City Centre.
+- Eldon Chambers is approximately 200m from the Old Market Square in Nottingham City Centre.
 - Starting outside of the Council House, walk along the left side of the square (South Parade) towards the fountains (away from the Council House).
-- Turn left onto Wheeler gate.  Eldon Chambers is on the right hand side between Cafe Nero and Specsavers.
+- Turn left onto Wheeler Gate.
+- Eldon Chambers is on the right hand side between Cafe Nero and Specsavers.
 
 ## Getting to us - by bus
 - The closest bus stop will vary depending on which route you are using.  All City Centre stops will be relatively close.

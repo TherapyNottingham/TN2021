@@ -21,9 +21,11 @@ Appointments with the Director ({{% mention "justin" %}}) are £60 per 50 minute
 
 ## Individual Supervision
 
-£55 per hour
+£60 per hour.  Minimum 1 hour booking.
 
-Minimum 1 hour booking.
+## Group Supervision
+
+£90 per hour (max. 3 people).  Minimum 1 hour booking.
 
 ## Professional consultation
 

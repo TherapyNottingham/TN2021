@@ -82,16 +82,14 @@ The table below explains what we use (process) your personal data for and our re
 | What we use your personal data for | Our reasons |
 |---|---|
 | To provide therapeutic support services to you | For the performance of our contract with you or to take steps at your request before entering into a contract |
-| Conducting checks to identify our clients and verify their identity
-Other processing necessary to comply with professional, legal and regulatory obligations that apply to our business, eg under health and safety regulation or rules issued by our professional regulator | To comply with our legal and regulatory obligations |
+| Conducting checks to identify our clients and verify their identity<br/>Other processing necessary to comply with professional, legal and regulatory obligations that apply to our business, eg under health and safety regulation or rules issued by our professional regulator | To comply with our legal and regulatory obligations |
 | Gathering and providing information required by or relating to audits, enquiries or investigations by regulatory bodies | To comply with our legal and regulatory obligations |
 | Ensuring business policies are adhered to, eg policies covering security and internet use | For our legitimate interests or those of a third party, ie to make sure we are following our own internal procedures so we can deliver the best service to you |
 | Operational reasons, such as improving efficiency, training and quality control | For our legitimate interests or those of a third party, ie to be as efficient as we can so we can delivery the best service for you |
 | Ensuring the confidentiality of commercially sensitive information | For our legitimate interests or those of a third party, ie to protect our intellectual property and other commercially valuable information
 To comply with our legal and regulatory obligations |
 | Statistical analysis to help us manage our practice, eg in relation to client base, work type or other efficiency measures | For our legitimate interests or those of a third party, ie to be as efficient as we can so we can delivery the best service for you |
-| Preventing unauthorised access and modifications to systems | For our legitimate interests or those of a third party, ie to prevent and detect criminal activity that could be damaging for us and for you
-<br />To comply with our legal and regulatory obligations |
+| Preventing unauthorised access and modifications to systems | For our legitimate interests or those of a third party, ie to prevent and detect criminal activity that could be damaging for us and for you<br/>To comply with our legal and regulatory obligations |
 | Updating and enhancing client records | For the performance of our contract with you or to take steps at your request before entering into a contract
 To comply with our legal and regulatory obligations
 For our legitimate interests or those of a third party, eg making sure that we can keep in touch with our clients about existing and new services |

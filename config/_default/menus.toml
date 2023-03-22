@@ -77,6 +77,12 @@
   url = "/about/fees"
   weight = 90
 
+[[main]]
+  name = "Client Privacy"
+  parent = "About"
+  url = "/about/clientprivacy"
+  weight = 99
+
 # [[main]]
 #   name = "Covid-19"
 #   parent = "About"

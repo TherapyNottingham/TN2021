@@ -148,8 +148,8 @@ These transfers are subject to special rules under European and UK data protecti
 If you would like further information please contact us (see ‘How to contact us’ below). 
 
 ## Your rights
-You have the following rights, which you can exercise free of charge:
-
+| You have the following rights, which you can exercise free of charge: | |
+|---|---|
 | Access | The right to be provided with a copy of your personal data |
 | Rectification | The right to require us to correct any mistakes in your personal data |
 | To be forgotten | The right to require us to delete your personal data—in certain situations |

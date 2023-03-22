@@ -91,7 +91,7 @@ Other processing necessary to comply with professional, legal and regulatory obl
 To comply with our legal and regulatory obligations |
 | Statistical analysis to help us manage our practice, eg in relation to client base, work type or other efficiency measures | For our legitimate interests or those of a third party, ie to be as efficient as we can so we can delivery the best service for you |
 | Preventing unauthorised access and modifications to systems | For our legitimate interests or those of a third party, ie to prevent and detect criminal activity that could be damaging for us and for you
-To comply with our legal and regulatory obligations |
+<br />To comply with our legal and regulatory obligations |
 | Updating and enhancing client records | For the performance of our contract with you or to take steps at your request before entering into a contract
 To comply with our legal and regulatory obligations
 For our legitimate interests or those of a third party, eg making sure that we can keep in touch with our clients about existing and new services |

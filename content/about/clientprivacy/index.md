@@ -62,7 +62,7 @@ We collect most of this information from you, direct or via secure online forms.
   - consultants and other professionals we may engage in relation to your work with us;
   - your employer;
   - your doctors, medical and occupational health professionals;
-- via our website—we use cookies on our website (for more information on cookies, please see our cookies policy here)
+- via our website—we use cookies on our website
 - via our information technology (IT) systems, eg:
   - case management, document management and time recording systems;
   - automated monitoring of our websites and other technical systems, such as communications systems, email and instant messaging systems;
@@ -105,9 +105,10 @@ We have a legitimate interest in processing your personal data for promotional p
 We will always treat your personal data with the utmost respect and never share it with other organisations for marketing purposes.
 
 You have the right to opt out of receiving promotional communications at any time by:
+- contacting us by email at hello@therapynottingham.co.uk
+- telephone: 0115 7722132
+- using the ‘unsubscribe’ link in emails or ‘STOP’ number in texts
 
-contacting us by email at hello@therapynottingham.co.uk or telephone: 0115 7722132
-using the ‘unsubscribe’ link in emails or ‘STOP’ number in texts
 We may ask you to confirm or update your marketing preferences if you engage us to provide further services in the future, or if there are changes in the law, regulation, or the structure of our business.
 
 ## Who we share your personal data with
@@ -125,9 +126,9 @@ We may also need to share some personal data with other parties, such as potenti
 We will not share your personal data with any other third party.
 
 ## Where your personal data is held
-Information may be held at our offices and those of our third party agencies, service providers, representatives and agents as described above (see ‘Who we share your personal data with’).
+Information may be held at our offices and those of our third party agencies, service providers, representatives and agents as described above (see [Who we share your personal data with](#who-we-share-your-personal-data-with)).
 
-Some of these third parties may be based outside the European Economic Area. For more information, including on how we safeguard your personal data when this occurs, see below: ‘Transferring your personal data out of the EEA’.
+Some of these third parties may be based outside the European Economic Area. For more information, including on how we safeguard your personal data when this occurs, see below: [Transferring your personal data out of the EEA](#transferring-your-personal-data-out-of-the-eea).
 
 ## How long your personal data will be kept
 We will keep your personal data after we have finished advising or working with you. We will do so for one of these reasons:
@@ -145,7 +146,7 @@ To deliver services to you, it is sometimes necessary for us to share your perso
 
 These transfers are subject to special rules under European and UK data protection law.
 
-If you would like further information please contact us (see ‘How to contact us’ below). 
+If you would like further information please contact us (see [How to contact us](#how-to-contact-us) below). 
 
 ## Your rights
 | You have the following rights, which you can exercise free of charge: | |

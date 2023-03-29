@@ -70,3 +70,12 @@ img {
     margin: 10px;
     padding: 20px;
 }
+
+table, td, th {
+  border: 1px solid #464c43;
+}
+
+table {
+  width: 100%;
+  border-collapse: collapse;
+}

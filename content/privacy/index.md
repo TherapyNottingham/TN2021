@@ -13,8 +13,11 @@ header:
   image: ""
 ---
 {{< toc >}}
+
 ## 1 Introduction
 1.1 We, Therapy Nottingham (we, us, our) take privacy, and the security of personal data, very seriously, and we are committed to ensuring that we safeguard the privacy and personal data of our website visitors and those with whom we communicate through that website, whether by email or electronically, at all times and in the best way possible.
+
+If you are looking for our privacy policy for clients it is available [here]({{< relref "/about/clientprivacy" >}}).
 
 1.2 This privacy policy contains important information for you. It explains:
 

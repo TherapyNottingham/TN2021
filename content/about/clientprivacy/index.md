@@ -100,7 +100,7 @@ The above table does not apply to special category personal data, which we will 
 ## Promotional communications
 We may use your personal data to send you updates (by email, text message, telephone or post) about wellbeing developments that might be of interest to you and/or information about our services, including exclusive offers, promotions or new services.
 
-We have a legitimate interest in processing your personal data for promotional purposes (see above ‘How and why we use your personal data’). This means we do not usually need your consent to send you promotional communications. However, where consent is needed, we will ask for this consent separately and clearly.
+We have a legitimate interest in processing your personal data for promotional purposes (see above [How and why we use your personal data](#how-and-why-we-use-your-personal-data)). This means we do not usually need your consent to send you promotional communications. However, where consent is needed, we will ask for this consent separately and clearly.
 
 We will always treat your personal data with the utmost respect and never share it with other organisations for marketing purposes.
 
@@ -118,6 +118,8 @@ We routinely share personal data with:
 - external service suppliers, representatives and agents that we use to make our business more efficient, eg therapeutic supervisors, case management providers, typing services, marketing agencies, document collation or analysis suppliers, accountants, financial services and administrative support providers.
 
 We only allow our service providers to handle your personal data if we are satisfied they take appropriate measures to protect your personal data. We also impose contractual obligations on service providers relating to ensure they can only use your personal data to provide services to us and to you.
+
+We may share information relating to you and our work with you for the purposes of writing and publishing articles, case studies, research papers, and books.  In such cases, steps will be taken to anonymise this information as far as practicable, unless we seek your explicit consent not to.
 
 We may disclose and exchange information with law enforcement agencies and regulatory bodies to comply with our legal and regulatory obligations. 
 

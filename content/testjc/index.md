@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-<script>source = '/.netlify/functionc/one.js'</script>
+<script>source = '/.netlify/functions/one.js'</script>

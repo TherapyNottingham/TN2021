@@ -109,5 +109,5 @@ extensions:
 
 security:
   csp:
-    policy: default-src 'self'; form-action 'none'; script-src 'self'; frame-ancestors 'none'; report-uri https://therapynottingham.report-uri.com/r/d/csp/wizard
+    policy: default-src 'self' https://therapynottingham.netlify.app https://therapynottingham.co.uk; form-action 'none'; img-src https://i0.wp.com/safespacealliance.com; script-src 'self' https://member.psychologytoday.com https://cdn.jsdelivr.net; style-src https://cdn.jsdelivr.net; font-src https://fonts.gstatic.com; frame-ancestors 'none'; report-uri https://therapynottingham.report-uri.com/r/d/csp/wizard
     report_only: true

@@ -18,7 +18,7 @@ async function apiCall() {
     const url = `/.netlify/functions/one`;
     try {
         const response = await fetch(url);
-        const data = await response.json();
+        const data = await response;
         return data;
     } catch (err) {
         console.log(err);

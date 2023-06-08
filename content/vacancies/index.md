@@ -15,7 +15,7 @@ header:
 ---
 
 
-We are not currently recruiting, but you sign up for our newsletter to get news and updates.
+We are not currently recruiting, but you can sign up for our newsletter to get news and updates.
 <!--
 
 

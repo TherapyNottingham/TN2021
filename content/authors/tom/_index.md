@@ -16,8 +16,8 @@ organizations:
   url: "mailto:tom@therapynottingham.co.uk"
 - name: "Office: 0115 7722132"
   url: "tel:01157722132"
-#- name: "Mobile: 07946 254819"
-#  url: "tel:07946254819"
+- name: "Mobile: 07554 952299"
+  url: "tel:07554952299"
 - name: "––––––––––"
   url: ""
 - name: "Book with us now"
@@ -48,9 +48,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:tom@therapynottingham.co.uk'
-#- icon: mobile-alt
-#  icon_pack: fas
-#  link: 'tel:07946254819'
+- icon: mobile-alt
+  icon_pack: fas
+  link: 'tel:07554952299'
 - icon: calendar-alt
   icon-pack: far
   link: https://therapy-nottingham.selectandbook.com

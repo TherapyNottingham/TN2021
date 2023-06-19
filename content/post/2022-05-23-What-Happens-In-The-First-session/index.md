@@ -87,4 +87,4 @@ Of course!  Saying no once doesn't mean you can never return and consider it aga
 ## And if I say yes?
 As I said before, we will probably meet another couple of times before we decide to formally contract for ongoing psychotherapy.
 
-I hope this has given you some insight into what to expect.  If you have any questions or would like to book an appointment, then please [get in touch]({{< relref "/#contact" >}}).  You can also book online, [choose from any of our available appointments here](https://therapy-nottingham.selectandbook.com).
+I hope this has given you some insight into what to expect.  If you have any questions or would like to book an appointment, then please [get in touch]({{< relref "/#contact" >}}).  You can also book online, [choose from any of our available appointments here](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham).

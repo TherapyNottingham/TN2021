@@ -30,7 +30,8 @@ weight: 90
 - You can view and pay your invoices.
 
 ## Do I have to register for this?
-- Yes, you will need to set up your account including a password
+- Yes, and it is free to do so.
+- You will need to set up your account including a password.
 
 ## How do I get more help using this?
 - There is further information and help available [here](https://support.powerdiary.com/article/376-client-portal-user-manual-for-clients).

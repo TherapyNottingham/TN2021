@@ -46,7 +46,7 @@ content:
     - 'Saturday Closed'
     - 'Sunday Closed'
     - 'Bank Holidays Closed'
-  appointment_url: '/booking'
+  appointment_url: 'https://clientportal.uk.powerdiary.com/clientportal/therapynottingham'
   contact_links:
     - icon: twitter
       icon_pack: fab

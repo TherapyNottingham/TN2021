@@ -12,19 +12,16 @@ header:
   caption: ""
   image: "diary.jpg"
 ---
-{{< toc >}}
-## For individual psychotherapy
 
-[You can browse, choose, and book from our available appointments here.](https://therapy-nottingham.selectandbook.com)
+## Client Portal
+
+[You can browse, choose, and book from our available appointments here.](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham)
 
 ## For waiting list and general enquiries
   
 You can [contact us]({{< relref "/#contact" >}}) to ask about the waiting list times and any other general enquiry.
 
-## For Supervision and Consultation enquiries
-
-You can [contact us]({{< relref "/#contact" >}}) to discuss availability and what it is you are looking for.
 
 ## For existing clients
 
-For additional sessions, cancellations, or to re-arrange appointments, please contact [your psychotherapist]({{< relref "/people" >}}) directly, or [contact us]({{< relref "/#contact" >}}).
+For additional sessions, cancellations, or to re-arrange appointments, you manage these online at our [Client Portal](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham) or contact [your psychotherapist]({{< relref "/people" >}}) directly, or [contact us]({{< relref "/#contact" >}}).

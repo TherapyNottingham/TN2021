@@ -22,7 +22,7 @@ design:
 hero_media: 8_Eldon_Chambers.webp
 
 cta:
-  url: '/booking'
+  url: 'https://clientportal.uk.powerdiary.com/clientportal/therapynottingham'
   label: Book your first appointment
   icon_pack: fas
   icon: calendar-check

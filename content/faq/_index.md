@@ -28,7 +28,7 @@ weight: 1
 - Our fees are [available here]({{< relref "/about/fees" >}})
 
 ## What times and days are available?
-- Our up to date availability for individual psychotherapy [is available here, where you can book online]({{< relref "/booking" >}}).  For other services then please [contact us]({{< relref "/#contact" >}})
+- Our current availability for all appointments [is available here, where you can book online](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham).  For any other questions you can [contact us]({{< relref "/#contact" >}}).
 
 ## How often do I have to have appointments?
 - We usually work on a weekly basis, one appointment per week at the same time, on the same day.  For some clients, we may discuss with you the option of increasing this.
@@ -39,4 +39,4 @@ weight: 1
 ## What happens in the first session?
 - The overall aim is to get to know each other.  Your therapist will want to have an understanding of how things are for you right now, and what it is you want help with.  And you will get to experience what it might be like to work with your therapist.  The details of this process will vary between individual psychotherapists, but here at Therapy Nottingham we will be sitting down and talking.  We do a lot of that.
 
-You can read Justin's post about [ what happens in the first session here]({{< relref "/post/2022-05-23-what-happens-in-the-first-session" >}}).
+You can read {{% mention "justin" %}}'s post about [ what happens in the first session here]({{< relref "/post/2022-05-23-what-happens-in-the-first-session" >}}).

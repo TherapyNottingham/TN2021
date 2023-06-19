@@ -21,7 +21,7 @@ design:
 hero_media: room5.webp
 
 cta:
-  url: '/booking'
+  url: 'https://clientportal.uk.powerdiary.com/clientportal/therapynottingham'
   label: Book your first appointment
   icon_pack: fas
   icon: calendar-check

@@ -23,6 +23,7 @@ weight: 10
 
 ## How do I pay for my appointments
 - For your first appointment with us, we ask you to pay in advance.  After that, you will receive an invoice by email following your appointment.
+- You can also access of your appointmens and invoices, and pay them online at our [Client Portal](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham).
 
 ## Which payment methods do you accept?
 - You can pay online using your card by clicking the 'Pay Now' button on your invoice.

@@ -21,7 +21,7 @@ organizations:
 - name: "––––––––––"
   url: ""
 - name: "Book with us now"
-  url: "https://therapy-nottingham.selectandbook.com"
+  url: "https://clientportal.uk.powerdiary.com/clientportal/therapynottingham"
 - name: "––––––––––"
   url: ""
 
@@ -51,7 +51,7 @@ social:
   link: 'tel:07772761693'
 - icon: calendar-alt
   icon-pack: far
-  link: https://therapy-nottingham.selectandbook.com
+  link: https://clientportal.uk.powerdiary.com/clientportal/therapynottingham
 # - icon: google-scholar
 #  icon_pack: ai
 #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ

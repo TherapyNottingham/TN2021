@@ -17,6 +17,14 @@ header:
 
 [You can browse, choose, and book from our available appointments here.](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham)
 
+<iframe src="https://clientportal.powerdiary.com/clientportal/xxxxxxxx" 
+
+  id="powerdiary_portal"  
+  height="1000px"  
+  width="100%"  
+  border="none"></iframe>  
+<script src="https://clientportal.powerdiary.com/dist/portalEmbed.js"></script>
+
 ## For waiting list and general enquiries
   
 You can [contact us]({{< relref "/#contact" >}}) to ask about the waiting list times and any other general enquiry.

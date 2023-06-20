@@ -17,7 +17,7 @@ header:
 
 [You can browse, choose, and book from our available appointments here.](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham)
 
-<iframe src="https://clientportal.powerdiary.com/clientportal/xxxxxxxx" 
+<iframe src="https://clientportal.powerdiary.com/clientportal/therapynottingham" 
 
   id="powerdiary_portal"  
   height="1000px"  

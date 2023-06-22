@@ -1,28 +1,28 @@
 ---
-title: Example Event
-draft: true
-event: Wowchemy Conference
+title: Getting Started in Private Practice
+
+event: Getting Started in Private Practice
 event_url: https://example.org
 
-location: Wowchemy HQ
+location: Lace Market Hotel
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: 29-31 High Pavement
+  city: Nottingham
+  region: Notts
+  postcode: 'NG1 1HE'
+  country: United Kingdom
 
-summary: An example event.
+summary: A one-day in-person event to help counsellors and psychotherapists get up and running with their own private practice.
 abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2030-09-08T09:30:00Z"
+date_end: "2030-09-08T17:30:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2023-06-01T00:00:00Z"
 
 authors: []
 tags: []

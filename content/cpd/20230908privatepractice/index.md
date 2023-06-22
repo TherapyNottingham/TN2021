@@ -31,8 +31,8 @@ tags: []
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
-  focal_point: Right
+  caption: 'Getting Started in Private Practice'
+  focal_point: Centre
 
 url_code: ""
 url_pdf: ""

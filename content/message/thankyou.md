@@ -1,6 +1,7 @@
 ---
 title: Thank you for choosing to pay by Direct Debit
 summary: Thank you for choosing Direct Debit
+date:
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
@@ -12,7 +13,7 @@ image:
   caption: ""
   focal_point: "Center"
   preview_only: false
-  alt_text: An optional description of the image for screen readers.
+  alt_text: A person holding a bank card.
   filename: card_payment.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
 

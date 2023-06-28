@@ -47,7 +47,7 @@ There is no specific criteria for you to meet in order to attend psychotherapy (
 
 If you’ve been sitting on the idea of getting therapy for a while, then it is definitely worthy pursuing!
 
-Abi currently has some new appointment times available.  You can [book an initial assessment session with Abi](https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=33110) or [choose from any of the other appointments we have available here](https://therapy-nottingham.selectandbook.com).
+Abi currently has some new appointment times available.  You can [book an initial assessment session with Abi](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham) or [choose from any of the other appointments we have available here](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham).
 
 
 > This post originally appeared over on [Instagram](https://www.instagram.com/p/Cbzk60AsXof/), where you can [follow Abi](https://www.instagram.com/abigraves_psychotherapist/). 

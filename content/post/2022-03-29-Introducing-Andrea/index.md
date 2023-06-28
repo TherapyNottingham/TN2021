@@ -79,4 +79,4 @@ This is an interesting question as I have always had success finding a therapist
 I am particularly interested in the workings of the body and continue to research my work as a eurythmy (movement) therapist and the phenomena of psychotherapy and how they can work together. 
 
 
-Andrea currently has some new appointment times available.  You can [book an initial assessment session with Andrea](https://therapy-nottingham.selectandbook.com/search-results.aspx?resource=33721) or [choose from any of the other appointments we have available here](https://therapy-nottingham.selectandbook.com).
+Andrea currently has some new appointment times available.  You can [book an initial assessment session with Andrea](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham) or [choose from any of the other appointments we have available here](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham).

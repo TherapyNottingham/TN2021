@@ -103,7 +103,7 @@
 
 [[main]]
   name = "Book now"
-  url = "/booking"
+  url = "https://clientportal.uk.powerdiary.com/clientportal/therapynottingham"
   weight = 60
 
 [[main]]

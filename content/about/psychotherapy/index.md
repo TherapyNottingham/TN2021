@@ -77,7 +77,7 @@ Whatever apparent similarities there may be, your individual experience is inevi
 
 We believe that Integrative psychotherapy has the greatest potential as an in-person service, which is our primary provision.  This is not to say that working online can not be effective, but we recognise the significant limitation placed on a relational experience by working this way.
 
-In some instances, it may not be possible for in-person sessions to take place (for example, due to geography, or Covid restrictions) and so working online remains an option which you can discuss either through your [referral]({{< relref "/booking" >}}) or with [your therapist]({{< relref "/people" >}}).
+In some instances, it may not be possible for in-person sessions to take place (for example, due to Covid restrictions) and so working online remains an option which you can discuss either through your [referral](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham) or with [your therapist]({{< relref "/people" >}}).
 
 ## Ethical practice
 

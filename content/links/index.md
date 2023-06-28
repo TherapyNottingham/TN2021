@@ -14,6 +14,6 @@ header:
 ---
 
 {{< icon name="window-restore" pack="far" >}} [Our website](http://www.therapynottingham.co.uk) <br>
-{{< icon name="calendar-check" pack="far" >}} [Book an initial assessment](http://therapy-nottingham.selectandbook.com) <br>
+{{< icon name="calendar-check" pack="far" >}} [Book an initial assessment](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham) <br>
 {{< icon name="facebook-square" pack="fab" >}} [Facebook](https://facebook.com/therapynotts) <br>
 {{< icon name="instagram-square" pack="fab" >}} [Instagram](https://instagram.com/therapynottingham) <br>

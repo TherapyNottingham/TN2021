@@ -1,21 +1,27 @@
 ---
-title: Thank you for booking with Therapy Nottingham
-summary: Thank you
+title: Thank you for choosing to pay by Direct Debit
+summary: Thank you for choosing Direct Debit
+date: 2023-06-28
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?
 profile: false  # Show author profile?
 comments: false  # Show comments?
 
-# Optional header image (relative to `assets/media/` folder).
-header:
+image:
+  placement: 1
   caption: ""
-  image: "diary.jpg"
+  focal_point: "Center"
+  preview_only: false
+  alt_text: A person holding a bank card.
+  filename: card_payment.jpg  # Uncomment to load an image from `assets/media/` instead.
 ---
-We have received your booking for an assessment session, and will be in contact with you about this soon.
 
-## What happens next?
+## Useful information
 
-- You will usually hear from us within one working day
-- We will send you a confirmation for your appointment, as well as some additional questions for you to complete prior to your first appointment
-- If you change your mind, or have any questions, then please [contact us]({{< relref "/#contact" >}})
+- Unlike many Direct Debit agreements, we will not be taking money out of your account every week no matter what
+- We will only request payment from your bank when we invoice you for an appointment, so if, for example, you are away on holiday and have agreed this with your psychotherapist in advance, we will not request payment
+- There can be a delay between the time when we request the payment from your bank, and the money leaving your account
+- If you ever want to check, you can see the payment status of your invoices in our [Client Portal](https://clientportal.uk.powerdiary.com/clientportal/therapynottingham)
+- There is more information over on the [Direct Debit FAQ]({{< relref "/faq/payment" >}}) page
+- You can always contact us at [finance@therapynottingham.co.uk](mailto:finance@therapynottingham.co.uk) with any finance and billing related enquiries

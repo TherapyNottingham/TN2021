@@ -1,6 +1,6 @@
 ---
 title: Example Event
-draft: false
+draft: true
 event: Wowchemy Conference
 event_url: https://example.org
 

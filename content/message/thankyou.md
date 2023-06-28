@@ -1,7 +1,7 @@
 ---
 title: Thank you for choosing to pay by Direct Debit
 summary: Thank you for choosing Direct Debit
-date:
+date: 2023-06-28
 
 reading_time: false  # Show estimated reading time?
 share: true  # Show social sharing links?

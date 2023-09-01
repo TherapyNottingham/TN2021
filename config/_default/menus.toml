@@ -26,6 +26,12 @@
   url = "#individual_psychotherapy"
   weight = 5
  
+[[main]]
+  name = "Supervision"
+  parent = "Services"
+  url = "/about/supervision"
+  weight = 7
+
 #[[main]]
 #  name = "Free guide to finding a good therapist"
 #  parent = "Services"

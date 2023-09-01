@@ -31,7 +31,7 @@ design:
 - [Individual Psychotherapy]({{< relref "/#individual_psychotherapy" >}})
 
 ## For professionals
-- Supervision
+- [Supervision]({{< relref "/about/supervision" >}})
 - Consultation
 - Training
 - CPD

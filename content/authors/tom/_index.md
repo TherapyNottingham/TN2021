@@ -79,9 +79,9 @@ user_groups:
 ---
 
 Tom is a Humanistic and Integrative Psychotherapist working from a relational and developmental framework.
- 
+
 Before qualifying as a Psychotherapist Tom worked in the photographic industry. As a Psychotherapist he has gained extensive experience in the voluntary sector and provided counselling for students at both college and university level. He has supported clients from neurodiverse and diverse backgrounds and has worked with issues including PTSD, abuse, depression, self-harm, anxiety, disordered eating, chronic fatigue, and life-changing events.
  
-He is passionate about people, aiming to empower clients to develop a deeper insight into themselves; allowing them to find a new way of being through learning about themselves. This helps clients to find meaning and purpose in their lives. 
+He is passionate about people, aiming to empower clients to develop a deeper insight into themselves; allowing them to find a new way of being through learning about themselves. This helps clients to find meaning and purpose in their lives.  
 
 "It is not easy to take these first steps to get help but I will walk the path with you, supporting you along the way."

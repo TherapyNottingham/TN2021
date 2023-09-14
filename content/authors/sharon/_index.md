@@ -87,6 +87,7 @@ Sharon is a Humanistic and integrative therapist who works with a relational app
 Before qualifying as a psychotherapist Sharon worked in a secondary school supporting young people and their families through difficult challenges and mental health issues. This included trauma, loss, anxiety, self-harm, low self-esteem, and the struggles of a diagnosis of ADHD and ASD.
 
 Sharon also volunteered with a Nottingham charity to offer therapy to adults facing similar issues.
+<<<<<<< HEAD
 She holds the strong belief that through building a supportive therapeutic relationship, it is possible to explore thoughts, feelings, and behaviours, which can then help face the difficulties that life sometimes brings.
 ---
 # Display name
@@ -178,3 +179,6 @@ Before qualifying as a psychotherapist Sharon worked in a secondary school suppo
 
 Sharon also volunteered with a Nottingham charity to offer therapy to adults facing similar issues.
 She holds the strong belief that through building a supportive therapeutic relationship, it is possible to explore thoughts, feelings, and behaviours, which can then help face the difficulties that life sometimes brings.
+=======
+She holds the strong belief that through building a supportive therapeutic relationship, it is possible to explore thoughts, feelings, and behaviours, which can then help face the difficulties that life sometimes brings.
+>>>>>>> DevGeneralUpdates

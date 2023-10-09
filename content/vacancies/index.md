@@ -31,7 +31,9 @@ We have some full days available, and are particularly looking to expand our eve
 
 {{% staticref "uploads/TN_Associate_Information.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}} Information and Benefits{{% /staticref %}}
 
+
 {{% staticref "uploads/TN_Associate_Application.docx" "newtab" %}}{{< icon name="file-word" pack="fas" >}} Application Form (Word format){{% /staticref %}}
+
 
 {{% staticref "uploads/TN_Associate_Application.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}} Application Form (PDF format){{% /staticref %}}
 

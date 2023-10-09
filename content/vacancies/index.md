@@ -28,9 +28,9 @@ As the Therapy Nottingham service expands, we are looking for more people to joi
 As an associate psychotherapist you will be working with clients in-person at the Therapy Nottingham offices.  This is a self-employed role, with part-time options available.  For an informal conversation about this role please [contact us]({{< relref "/#contact" >}}).
 We have some full days available, and are particularly looking to expand our evening and weekend provision.
 
-- {{% staticref "uploads/TN_Associate_Information.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}Associate Psychotherapist Information and Benefits{{% /staticref %}}
-- {{% staticref "uploads/TN_Associate_Application.docx" "newtab" %}}{{< icon name="file-word" pack="fas" >}}Associate Psychotherapist Application Form (Word format){{% /staticref %}}
-- {{% staticref "uploads/TN_Associate_Application.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}}Associate Psychotherapist Application Form (PDF format){{% /staticref %}}
+- {{% staticref "uploads/TN_Associate_Information.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}} ßInformation and Benefits{{% /staticref %}}
+- {{% staticref "uploads/TN_Associate_Application.docx" "newtab" %}}{{< icon name="file-word" pack="fas" >}} Application Form (Word format){{% /staticref %}}
+- {{% staticref "uploads/TN_Associate_Application.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}} Application Form (PDF format){{% /staticref %}}
 
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-071822.css" rel="stylesheet" type="text/css">

@@ -30,11 +30,9 @@ As an associate psychotherapist you will be working with clients in-person at th
 We have some full days available, and are particularly looking to expand our evening and weekend provision.
 
 {{% staticref "uploads/TN_Associate_Information.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}} Information and Benefits{{% /staticref %}}
-
-
+<br />
 {{% staticref "uploads/TN_Associate_Application.docx" "newtab" %}}{{< icon name="file-word" pack="fas" >}} Application Form (Word format){{% /staticref %}}
-
-
+<br />
 {{% staticref "uploads/TN_Associate_Application.pdf" "newtab" %}}{{< icon name="file-pdf" pack="fas" >}} Application Form (PDF format){{% /staticref %}}
 
 <!-- Begin Mailchimp Signup Form -->

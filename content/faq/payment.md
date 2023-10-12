@@ -34,7 +34,10 @@ weight: 10
 - Only if you have had an appointment with us, or received an invoice.
 
 ## When does the Direct Debit payment get taken?
-- We will request the Direct Debit payment following your appointment.  This is usually also the time when you will receive an invoice.
+- We will usualy request the Direct Debit payment _on the Tuesday following your appointment_.
 - You will then be notified of this by the Direct Debit service (we use Go Cardless), giving you notice for the payment. Usually, this is two working days.
 - The payment will then leave your account, usually within three working days.
-- Because of this, it can be up to a week until the payment leaves your account.
+- Because of this, it can be several days between your apointment and payment leaving your account.
+
+## Who can I contact if I have questions about payments?
+- You can email us at [finance@therapynottingham.co.uk](mailto:finance@therapynottingham.co.uk) or [contact us]({{< relref "/#contact" >}}).

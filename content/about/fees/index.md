@@ -15,17 +15,17 @@ header:
 ---
 ## Individual Psychotherapy
 
-£55 per 50 minute session
+£60 per 50 minute session
 
-Appointments with the Director ({{% mention "justin" %}}) are £60 per 50 minute session
+Appointments with the Director ({{% mention "justin" %}}) are £65 per 50 minute session
 
 ## Individual Supervision
 
-£60 per hour.  Minimum 1 hour booking.
+£65 per hour.  Minimum 1 hour booking.
 
 ## Group Supervision
 
-£90 per hour (max. 3 people).  Minimum 1 hour booking.
+£100 per hour (max. 3 people).  Minimum 1 hour booking.
 
 ## Professional consultation
 
